@@ -14,7 +14,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var markers = L.markerClusterGroup();
 
 // load the GeoJSON data and add it to the marker cluster group
-var geojsonLayer = new L.geoJson.ajax("https://raw.githubusercontent.com/jaredcza/publicsandbox/7851fe5fb4fd97473cda56835886db2c6ee8010a/media_metadata.geojson", {
+var geojsonLayer = new L.geoJson.ajax("https://raw.githubusercontent.com/jaredczn/europe-map/master/photo_metadata.geojson", {
     onEachFeature: function (feature, layer) {
         layer.bindPopup(
             feature.properties.group + "</br>" +
@@ -27,23 +27,4 @@ var geojsonLayer = new L.geoJson.ajax("https://raw.githubusercontent.com/jaredcz
 geojsonLayer.on('data:loaded', function() {
     markers.addLayer(geojsonLayer);
     map.addLayer(markers);
-});
-
-// create another marker cluster group for swarm check-ins
-var swarmMarkers = L.markerClusterGroup();
-
-// load the GeoJSON data for swarm check-ins and add it to the swarm marker cluster group
-var swarmGeojsonLayer = new L.geoJson.ajax("https://raw.githubusercontent.com/jaredcza/publicsandbox/main/swarm_checkins.geojson", {
-	onEachFeature: function (feature, layer) {
-		layer.bindPopup(
-			feature.properties.venue + "</br>" +
-			feature.properties.address + "<br />"
-		);
-	}
-});
-
-// add the swarm marker cluster group to the map
-swarmGeojsonLayer.on('data:loaded', function() {
-	swarmMarkers.addLayer(swarmGeojsonLayer);
-	map.addLayer(swarmMarkers);
 });
