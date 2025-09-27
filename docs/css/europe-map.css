@@ -9,3 +9,17 @@ body {
 #map {
 	height: 100% 
 }
+/* Base style for markers */
+.custom-marker .marker-wrapper {
+	transition: transform 0.2s ease, filter 0.2s ease;
+}
+/* Hover effect */
+.custom-marker:hover .marker-wrapper {
+	transform: scale(1.2);
+	filter: brightness(0.9);
+}
+/* Popup-open effect */
+.custom-marker.popup-open .marker-wrapper {
+	transform: scale(1.2);
+	filter: brightness(0.9);
+}
