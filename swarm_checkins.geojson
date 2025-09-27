@@ -1,0 +1,6845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.61324101052998,
+          25.263183604776756
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-13 04:03:00.000000",
+        "venue": {
+          "id": "5136d9f6e4b052e6acffa193",
+          "name": "Hamad International Airport (DOH) (مطار حمد الدولي)",
+          "url": "https://app.foursquare.com/v/hamad-international-airport-doh/5136d9f6e4b052e6acffa193"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.591164019145781,
+          40.49142089453109
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 18:15:52.000000",
+        "venue": {
+          "id": "4afde737f964a520e72b22e3",
+          "name": "Adolfo Suárez Madrid-Barajas Airport (MAD) (Aeropuerto Adolfo Suárez Madrid-Barajas)",
+          "url": "https://app.foursquare.com/v/aeropuerto-adolfo-su%C3%A1rez-madridbarajas-mad/4afde737f964a520e72b22e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.593853720612166,
+          40.491729639798
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 17:57:07.000000",
+        "venue": {
+          "id": "4d683074d4c288bf50da7065",
+          "name": "Madrid",
+          "url": "https://app.foursquare.com/v/madrid/4d683074d4c288bf50da7065"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5937202209999586,
+          40.491435955638465
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 17:39:43.000000",
+        "venue": {
+          "id": "5085849be88982ac6a09d6a4",
+          "name": "Metro Aeropuerto T4",
+          "url": "https://app.foursquare.com/v/metro-aeropuerto-t4/5085849be88982ac6a09d6a4"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6770632113255535,
+          40.457367716670284
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 17:22:52.000000",
+        "venue": {
+          "id": "4b7ffcf0f964a520f34830e3",
+          "name": "Metro Colombia",
+          "url": "https://app.foursquare.com/v/metro-colombia/4b7ffcf0f964a520f34830e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.685726076075319,
+          40.43290641827764
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 17:09:30.000000",
+        "venue": {
+          "id": "4b883537f964a52074e731e3",
+          "name": "Metro Núñez de Balboa",
+          "url": "https://app.foursquare.com/v/metro-n%C3%BA%C3%B1ez-de-balboa/4b883537f964a52074e731e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7084229830075826,
+          40.41119228655949
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 16:47:26.000000",
+        "venue": {
+          "id": "4bc206c7abf49521bfccc193",
+          "name": "Metro La Latina",
+          "url": "https://app.foursquare.com/v/metro-la-latina/4bc206c7abf49521bfccc193"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.709731300990218,
+          40.40936114395341
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 16:03:12.000000",
+        "venue": {
+          "id": "4b5e1e0df964a5209f7e29e3",
+          "name": "La Cabra en el Tejado",
+          "url": "https://app.foursquare.com/v/la-cabra-en-el-tejado/4b5e1e0df964a5209f7e29e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7081256427254794,
+          40.41567475902408
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 15:23:50.000000",
+        "venue": {
+          "id": "4adcda37f964a520193c21e3",
+          "name": "Plaza Mayor",
+          "url": "https://app.foursquare.com/v/plaza-mayor/4adcda37f964a520193c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6966248697589714,
+          40.41813931397715
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 14:48:12.000000",
+        "venue": {
+          "id": "4fddbb7fe4b08aca49a0273a",
+          "name": "Azotea Círculo de Bellas Artes",
+          "url": "https://app.foursquare.com/v/azotea-c%C3%ADrculo-de-bellas-artes/4fddbb7fe4b08aca49a0273a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6964217343990478,
+          40.41855826746858
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 14:29:55.000000",
+        "venue": {
+          "id": "4adcda38f964a5204c3c21e3",
+          "name": "Círculo de Bellas Artes",
+          "url": "https://app.foursquare.com/v/c%C3%ADrculo-de-bellas-artes/4adcda38f964a5204c3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6924136937638026,
+          40.414943810218716
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 10:36:13.000000",
+        "venue": {
+          "id": "4adcda37f964a520fd3b21e3",
+          "name": "Museo Nacional del Prado",
+          "url": "https://app.foursquare.com/v/museo-nacional-del-prado/4adcda37f964a520fd3b21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7073426550017534,
+          40.41025765754908
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 09:53:48.000000",
+        "venue": {
+          "id": "5d8b39a04956e9000884926a",
+          "name": "Café del Art",
+          "url": "https://app.foursquare.com/v/caf%C3%A9-del-art/5d8b39a04956e9000884926a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7115253374145354,
+          40.40912975409788
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 09:40:08.000000",
+        "venue": {
+          "id": "5e0a345d6079da00087cbb5d",
+          "name": "L&H Hotels",
+          "url": "https://app.foursquare.com/v/lh-hotels/5e0a345d6079da00087cbb5d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7090771377738547,
+          40.4135172178146
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 08:39:20.000000",
+        "venue": {
+          "id": "67794eae0b0d12794a791914",
+          "name": "Royal Palace of Madrid",
+          "url": "https://app.foursquare.com/v/royal-palace-of-madrid/67794eae0b0d12794a791914"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7138943557913957,
+          40.42058385461898
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 07:50:48.000000",
+        "venue": {
+          "id": "4c1e4ede8b3aa5932bd99b5f",
+          "name": "Jardines de Sabatini",
+          "url": "https://app.foursquare.com/v/jardines-de-sabatini/4c1e4ede8b3aa5932bd99b5f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72171587660775,
+          40.41894651893255
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 07:32:00.000000",
+        "venue": {
+          "id": "4d84e61f40a7a35d0c1a15be",
+          "name": "Puente del Rey",
+          "url": "https://app.foursquare.com/v/puente-del-rey/4d84e61f40a7a35d0c1a15be"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.719916522515684,
+          40.41998325228496
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 07:26:34.000000",
+        "venue": {
+          "id": "4ea148830cd6fc5af3903ca0",
+          "name": "Puerta de San Vicente",
+          "url": "https://app.foursquare.com/v/puerta-de-san-vicente/4ea148830cd6fc5af3903ca0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.713572202432468,
+          40.41379573829357
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-12 07:08:21.000000",
+        "venue": {
+          "id": "4adcda37f964a5203c3c21e3",
+          "name": "Viaducto de Segovia",
+          "url": "https://app.foursquare.com/v/viaducto-de-segovia/4adcda37f964a5203c3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.707734147350195,
+          40.41537915622363
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 19:03:46.000000",
+        "venue": {
+          "id": "4adcda37f964a520193c21e3",
+          "name": "Plaza Mayor",
+          "url": "https://app.foursquare.com/v/plaza-mayor/4adcda37f964a520193c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708645989364928,
+          40.41572768826562
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 19:02:03.000000",
+        "venue": {
+          "id": "4adcda40f964a5206e3e21e3",
+          "name": "Mercado de San Miguel",
+          "url": "https://app.foursquare.com/v/mercado-de-san-miguel/4adcda40f964a5206e3e21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7122836094834195,
+          40.41510432708599
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 18:52:01.000000",
+        "venue": {
+          "id": "4d0f8bbfc3dc37047c383374",
+          "name": "Iglesia Catedral de las Fuerzas Armadas",
+          "url": "https://app.foursquare.com/v/iglesia-catedral-de-las-fuerzas-armadas/4d0f8bbfc3dc37047c383374"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7132252703370145,
+          40.42202153360553
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 18:35:34.000000",
+        "venue": {
+          "id": "4adcda38f964a520713c21e3",
+          "name": "Jardines de Plaza de España",
+          "url": "https://app.foursquare.com/v/jardines-de-plaza-de-espa%C3%B1a/4adcda38f964a520713c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.717988359971447,
+          40.42489998351849
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 18:15:08.000000",
+        "venue": {
+          "id": "4adcda37f964a520113c21e3",
+          "name": "Templo de Debod",
+          "url": "https://app.foursquare.com/v/templo-de-debod/4adcda37f964a520113c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704701399654464,
+          40.43334976296909
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 17:41:46.000000",
+        "venue": {
+          "id": "4b6ebe16f964a520b1c82ce3",
+          "name": "Glorieta de Quevedo",
+          "url": "https://app.foursquare.com/v/glorieta-de-quevedo/4b6ebe16f964a520b1c82ce3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7025706561796197,
+          40.429264216995456
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 17:34:17.000000",
+        "venue": {
+          "id": "4cbc0ca20180721e6e7aa261",
+          "name": "Glorieta de Bilbao",
+          "url": "https://app.foursquare.com/v/glorieta-de-bilbao/4cbc0ca20180721e6e7aa261"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.701480543038644,
+          40.42430037270859
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 17:16:57.000000",
+        "venue": {
+          "id": "662959e2002c942f3168093a",
+          "name": "La Dulceria Cheescake",
+          "url": "https://app.foursquare.com/v/la-dulceria-cheescake/662959e2002c942f3168093a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.701946315780669,
+          40.424201023315675
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 17:14:09.000000",
+        "venue": {
+          "id": "4c7d4bceb53db1f706ad9c11",
+          "name": "Plaza de San Ildefonso",
+          "url": "https://app.foursquare.com/v/plaza-de-san-ildefonso/4c7d4bceb53db1f706ad9c11"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7068074551697823,
+          40.418470108237024
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 17:02:40.000000",
+        "venue": {
+          "id": "4c6f8ee1d7fab1f74ede5bc9",
+          "name": "Plaza de San Martín",
+          "url": "https://app.foursquare.com/v/plaza-de-san-mart%C3%ADn/4c6f8ee1d7fab1f74ede5bc9"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.709790770792529,
+          40.41132744440347
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 16:45:12.000000",
+        "venue": {
+          "id": "4adcda40f964a5206f3e21e3",
+          "name": "Mercado de la Cebada",
+          "url": "https://app.foursquare.com/v/mercado-de-la-cebada/4adcda40f964a5206f3e21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7114658655754766,
+          40.40924597527699
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 14:57:34.000000",
+        "venue": {
+          "id": "615995127b8ad17747b9de28",
+          "name": "La Gildería",
+          "url": "https://app.foursquare.com/v/la-gilder%C3%ADa/615995127b8ad17747b9de28"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7085468753070856,
+          40.411098860200255
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 14:43:13.000000",
+        "venue": {
+          "id": "4ccc543572106dcb60049b99",
+          "name": "DIA %",
+          "url": "https://app.foursquare.com/v/dia-/4ccc543572106dcb60049b99"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6984233964493503,
+          40.41149685568239
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 14:25:53.000000",
+        "venue": {
+          "id": "4b9e79aef964a52026e736e3",
+          "name": "Mercado de Antón Martín",
+          "url": "https://app.foursquare.com/v/mercado-de-ant%C3%B3n-mart%C3%ADn/4b9e79aef964a52026e736e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69304782490319,
+          40.41509258426072
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 13:59:27.000000",
+        "venue": {
+          "id": "4adcda37f964a5201d3c21e3",
+          "name": "Fuente de Neptuno",
+          "url": "https://app.foursquare.com/v/fuente-de-neptuno/4adcda37f964a5201d3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6876431027064207,
+          40.415299442607065
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 13:46:19.000000",
+        "venue": {
+          "id": "505c7b0bfe708416a0c5d60a",
+          "name": "Plaza del Parterre",
+          "url": "https://app.foursquare.com/v/plaza-del-parterre/505c7b0bfe708416a0c5d60a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6824767086207366,
+          40.41490705937107
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 13:36:28.000000",
+        "venue": {
+          "id": "4adcda39f964a520b13c21e3",
+          "name": "Palacio de Velázquez",
+          "url": "https://app.foursquare.com/v/palacio-de-vel%C3%A1zquez/4adcda39f964a520b13c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.681208719453868,
+          40.4135110090027
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 13:31:31.000000",
+        "venue": {
+          "id": "4adcda37f964a5202b3c21e3",
+          "name": "Palacio de Cristal del Retiro",
+          "url": "https://app.foursquare.com/v/palacio-de-cristal-del-retiro/4adcda37f964a5202b3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6828977276843813,
+          40.41174763777675
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 13:10:40.000000",
+        "venue": {
+          "id": "4b8aa4c2f964a5201d7732e3",
+          "name": "Retiro Park (Parque del Retiro)",
+          "url": "https://app.foursquare.com/v/parque-del-retiro/4b8aa4c2f964a5201d7732e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6887180564239945,
+          40.40859529437071
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 12:23:08.000000",
+        "venue": {
+          "id": "596735e128374e219856f431",
+          "name": "Aecom Inocsa Slu.",
+          "url": "https://app.foursquare.com/v/aecom-inocsa-slu/596735e128374e219856f431"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.687108111217587,
+          40.40944177857916
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 11:55:39.000000",
+        "venue": {
+          "id": "50b5a8cce4b0394bd205829f",
+          "name": "Escultura de Pío Baroja",
+          "url": "https://app.foursquare.com/v/escultura-de-p%C3%ADo-baroja/50b5a8cce4b0394bd205829f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6894363562082004,
+          40.4094969282036
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 10:51:36.000000",
+        "venue": {
+          "id": "4badcfd8f964a520cf6a3be3",
+          "name": "Librerías Cuesta de Moyano",
+          "url": "https://app.foursquare.com/v/librer%C3%ADas-cuesta-de-moyano/4badcfd8f964a520cf6a3be3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7045477849157074,
+          40.412444411713956
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 10:33:10.000000",
+        "venue": {
+          "id": "4d30c052ac8f6a3165b29d6f",
+          "name": "Plaza de Tirso de Molina",
+          "url": "https://app.foursquare.com/v/plaza-de-tirso-de-molina/4d30c052ac8f6a3165b29d6f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7053455955704213,
+          40.41789068411064
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 09:26:54.000000",
+        "venue": {
+          "id": "4b799cc0f964a52084052fe3",
+          "name": "El Corte Inglés",
+          "url": "https://app.foursquare.com/v/el-corte-ingl%C3%A9s/4b799cc0f964a52084052fe3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7015647782170413,
+          40.42040677892942
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 09:06:39.000000",
+        "venue": {
+          "id": "4b790f5af964a5205fea2ee3",
+          "name": "Espacio Fundación Telefónica",
+          "url": "https://app.foursquare.com/v/espacio-fundaci%C3%B3n-telef%C3%B3nica/4b790f5af964a5205fea2ee3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7032445560462137,
+          40.4203382151423
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 08:24:35.000000",
+        "venue": {
+          "id": "4adcda3ef964a5204d3e21e3",
+          "name": "Casa del Libro",
+          "url": "https://app.foursquare.com/v/casa-del-libro/4adcda3ef964a5204d3e21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7057122953682717,
+          40.42013014192252
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 08:16:44.000000",
+        "venue": {
+          "id": "4b59799ff964a520778928e3",
+          "name": "Plaza del Callao",
+          "url": "https://app.foursquare.com/v/plaza-del-callao/4b59799ff964a520778928e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7070056766701636,
+          40.416590224446985
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 07:46:46.000000",
+        "venue": {
+          "id": "4adcda35f964a5207d3b21e3",
+          "name": "Chocolatería San Ginés",
+          "url": "https://app.foursquare.com/v/chocolater%C3%ADa-san-gin%C3%A9s/4adcda35f964a5207d3b21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70756070099959,
+          40.41525548940734
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 07:42:28.000000",
+        "venue": {
+          "id": "4adcda37f964a520193c21e3",
+          "name": "Plaza Mayor",
+          "url": "https://app.foursquare.com/v/plaza-mayor/4adcda37f964a520193c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711128859806478,
+          40.40924185430046
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 07:07:51.000000",
+        "venue": {
+          "id": "89df84ded84343a2f6338b3d",
+          "name": "The Cofee Bar Calatrava 10",
+          "url": "https://app.foursquare.com/v/the-cofee-bar-calatrava-10/89df84ded84343a2f6338b3d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711128859806478,
+          40.40924185430046
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-11 07:07:37.000000",
+        "venue": {
+          "id": "5e0a345d6079da00087cbb5d",
+          "name": "L&H Hotels",
+          "url": "https://app.foursquare.com/v/lh-hotels/5e0a345d6079da00087cbb5d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256570106677,
+          40.40550451685189
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 19:04:58.000000",
+        "venue": {
+          "id": "4c29c3003492a593d85cb928",
+          "name": "Glorieta de Embajadores",
+          "url": "https://app.foursquare.com/v/glorieta-de-embajadores/4c29c3003492a593d85cb928"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.699622449759697,
+          40.40095571987588
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 18:49:15.000000",
+        "venue": {
+          "id": "4ddc1bbad4c082f960bf4587",
+          "name": "Glorieta Santa María de la Cabeza",
+          "url": "https://app.foursquare.com/v/glorieta-santa-mar%C3%ADa-de-la-cabeza/4ddc1bbad4c082f960bf4587"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7017134288738585,
+          40.393277814829965
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 18:30:54.000000",
+        "venue": {
+          "id": "512cd9d8e4b0c375b84def27",
+          "name": "Puente del Invernadero",
+          "url": "https://app.foursquare.com/v/puente-del-invernadero/512cd9d8e4b0c375b84def27"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7069660323080056,
+          40.395913932915896
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 18:17:10.000000",
+        "venue": {
+          "id": "512cc368e4b05d7f4d0508f1",
+          "name": "Presa Nº8",
+          "url": "https://app.foursquare.com/v/presa-n%C2%BA8/512cc368e4b05d7f4d0508f1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708779793650732,
+          40.397600869077735
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 18:07:38.000000",
+        "venue": {
+          "id": "50e85598e4b036fe4d1fd19d",
+          "name": "Fuente Parque de la Arganzuela",
+          "url": "https://app.foursquare.com/v/fuente-parque-de-la-arganzuela/50e85598e4b036fe4d1fd19d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711713665365563,
+          40.39778038838608
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 18:01:24.000000",
+        "venue": {
+          "id": "4d8f766e1716a1437d1a4bf7",
+          "name": "Puente Monumental del Parque de la Arganzuela",
+          "url": "https://app.foursquare.com/v/puente-monumental-del-parque-de-la-arganzuela/4d8f766e1716a1437d1a4bf7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7122984776766716,
+          40.39830352751266
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 17:52:56.000000",
+        "venue": {
+          "id": "522263a711d22372510af183",
+          "name": "Puente De Bolas",
+          "url": "https://app.foursquare.com/v/puente-de-bolas/522263a711d22372510af183"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7128089549587537,
+          40.398476085043676
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 17:51:53.000000",
+        "venue": {
+          "id": "5291a95f11d299d963ecd71a",
+          "name": "Pasarela de Canal de Isabel II",
+          "url": "https://app.foursquare.com/v/pasarela-de-canal-de-isabel-ii/5291a95f11d299d963ecd71a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7165212211691925,
+          40.40011193588788
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 17:45:19.000000",
+        "venue": {
+          "id": "5291a8e211d299d963ecb664",
+          "name": "Pontona Norte",
+          "url": "https://app.foursquare.com/v/pontona-norte/5291a8e211d299d963ecb664"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.714806308714977,
+          40.400619268333095
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 17:35:46.000000",
+        "venue": {
+          "id": "5df4a173c9e0540008398917",
+          "name": "Toledo Bridge",
+          "url": "https://app.foursquare.com/v/toledo-bridge/5df4a173c9e0540008398917"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7119961586050234,
+          40.406211946842866
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 17:20:56.000000",
+        "venue": {
+          "id": "4adcda37f964a520263c21e3",
+          "name": "Puerta de Toledo",
+          "url": "https://app.foursquare.com/v/puerta-de-toledo/4adcda37f964a520263c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7115848093234223,
+          40.409098027999825
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 17:03:20.000000",
+        "venue": {
+          "id": "5e0a345d6079da00087cbb5d",
+          "name": "L&H Hotels",
+          "url": "https://app.foursquare.com/v/lh-hotels/5e0a345d6079da00087cbb5d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6804855836289905,
+          40.473948592746105
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 15:15:40.000000",
+        "venue": {
+          "id": "4b8372e0f964a520960631e3",
+          "name": "Madrid-Chamartín Railway Station (Estación de Madrid-Chamartín-Clara Campoamor)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-madridchamart%C3%ADn/4b8372e0f964a520960631e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.094512138126986,
+          40.91028129531449
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 14:20:44.000000",
+        "venue": {
+          "id": "4bdefe7ee75c0f473788c903",
+          "name": "Estación de Segovia-Guiomar",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-segoviaguiomar/4bdefe7ee75c0f473788c903"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.119952925634376,
+          40.94795976813293
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 12:10:43.000000",
+        "venue": {
+          "id": "4bb5eb4e46d4a593fd70c5c0",
+          "name": "El Bernardino",
+          "url": "https://app.foursquare.com/v/el-bernardino/4bb5eb4e46d4a593fd70c5c0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120372547749478,
+          40.94777743249148
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 11:37:30.000000",
+        "venue": {
+          "id": "4dc6668dfa76d685cdf923dd",
+          "name": "Mirador de Canaleja",
+          "url": "https://app.foursquare.com/v/mirador-de-canaleja/4dc6668dfa76d685cdf923dd"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.127261825527733,
+          40.950179928297075
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 11:19:35.000000",
+        "venue": {
+          "id": "556cafdf498eedd7a10fdbc1",
+          "name": "Muralla de Segovia",
+          "url": "https://app.foursquare.com/v/muralla-de-segovia/556cafdf498eedd7a10fdbc1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.128510885304183,
+          40.9503026704203
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 11:06:13.000000",
+        "venue": {
+          "id": "58d53a120b56560fa5375cfa",
+          "name": "Mirador del Museo de Segovia",
+          "url": "https://app.foursquare.com/v/mirador-del-museo-de-segovia/58d53a120b56560fa5375cfa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.132418136795517,
+          40.952343615689145
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 10:10:40.000000",
+        "venue": {
+          "id": "4c66a63b9cb82d7f1b1591d2",
+          "name": "Alcázar de Segovia",
+          "url": "https://app.foursquare.com/v/alc%C3%A1zar-de-segovia/4c66a63b9cb82d7f1b1591d2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121631434299818,
+          40.94864323387865
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 09:01:49.000000",
+        "venue": {
+          "id": "4db2949b5da3944066baaf0a",
+          "name": "Plazas de San Martín y Medina del Campo",
+          "url": "https://app.foursquare.com/v/plazas-de-san-mart%C3%ADn-y-medina-del-campo/4db2949b5da3944066baaf0a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.118184555150612,
+          40.948628299493784
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 08:55:52.000000",
+        "venue": {
+          "id": "4f48c2a0e4b08f45dd2595e0",
+          "name": "Mirador del Postigo",
+          "url": "https://app.foursquare.com/v/mirador-del-postigo/4f48c2a0e4b08f45dd2595e0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116661007079762,
+          40.946718407776686
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 08:23:35.000000",
+        "venue": {
+          "id": "4b589844f964a5203c6028e3",
+          "name": "Aqueduct of Segovia (Acueducto de Segovia)",
+          "url": "https://app.foursquare.com/v/acueducto-de-segovia/4b589844f964a5203c6028e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120937044716445,
+          40.9456306383455
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 08:02:10.000000",
+        "venue": {
+          "id": "4c07a3e80ed3c92861c9797d",
+          "name": "Iglesia de San Millán",
+          "url": "https://app.foursquare.com/v/iglesia-de-san-mill%C3%A1n/4c07a3e80ed3c92861c9797d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0933188130870315,
+          40.90974721239675
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 07:20:24.000000",
+        "venue": {
+          "id": "4bdefe7ee75c0f473788c903",
+          "name": "Estación de Segovia-Guiomar",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-segoviaguiomar/4bdefe7ee75c0f473788c903"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.682739225978166,
+          40.473445040028295
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 06:36:53.000000",
+        "venue": {
+          "id": "4b8372e0f964a520960631e3",
+          "name": "Madrid-Chamartín Railway Station (Estación de Madrid-Chamartín-Clara Campoamor)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-madridchamart%C3%ADn/4b8372e0f964a520960631e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708408115952011,
+          40.411232523335954
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-10 06:00:08.000000",
+        "venue": {
+          "id": "4bc206c7abf49521bfccc193",
+          "name": "Metro La Latina",
+          "url": "https://app.foursquare.com/v/metro-la-latina/4bc206c7abf49521bfccc193"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7033238389733167,
+          40.41505298322026
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 18:24:18.000000",
+        "venue": {
+          "id": "509c10c9e4b08f007b4451fa",
+          "name": "Flying Tiger Copenhagen",
+          "url": "https://app.foursquare.com/v/flying-tiger-copenhagen/509c10c9e4b08f007b4451fa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703447718795516,
+          40.41687292698222
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 17:51:32.000000",
+        "venue": {
+          "id": "4adcda37f964a5201f3c21e3",
+          "name": "Puerta del Sol",
+          "url": "https://app.foursquare.com/v/puerta-del-sol/4adcda37f964a5201f3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.692086723001779,
+          40.418875333974974
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 17:15:53.000000",
+        "venue": {
+          "id": "4d8f5093c1b1721e565d4346",
+          "name": "CentroCentro Cibeles de Cultura y Ciudadanía",
+          "url": "https://app.foursquare.com/v/centrocentro-cibeles-de-cultura-y-ciudadan%C3%ADa/4d8f5093c1b1721e565d4346"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6880740721895258,
+          40.41967396397389
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 16:57:18.000000",
+        "venue": {
+          "id": "686bc0df589f8e00fb486f87",
+          "name": "Puerta Real",
+          "url": "https://app.foursquare.com/v/puerta-real/686bc0df589f8e00fb486f87"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6878462028097303,
+          40.41958679350419
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 16:53:31.000000",
+        "venue": {
+          "id": "61db0a7ca6b0a6733fe76736",
+          "name": "Fuente De La Puerta De La Independencia Del Retiro",
+          "url": "https://app.foursquare.com/v/fuente-de-la-puerta-de-la-independencia-del-retiro/61db0a7ca6b0a6733fe76736"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6862115178060555,
+          40.419981686296225
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 16:50:08.000000",
+        "venue": {
+          "id": "5326e5be11d2ce1ee64c3451",
+          "name": "Puerta de Hernani de los Jardines del Buen Retiro",
+          "url": "https://app.foursquare.com/v/puerta-de-hernani-de-los-jardines-del-buen-retiro/5326e5be11d2ce1ee64c3451"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6800794433890247,
+          40.42145367974574
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 16:35:34.000000",
+        "venue": {
+          "id": "5326e825498ea621009608a9",
+          "name": "Puerta de O'Donnell de los Jardines del Buen Retiro",
+          "url": "https://app.foursquare.com/v/puerta-de-odonnell-de-los-jardines-del-buen-retiro/5326e825498ea621009608a9"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680545019059879,
+          40.41807950146888
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 16:27:02.000000",
+        "venue": {
+          "id": "5124b269e4b01abdae9634c7",
+          "name": "Monumento al General Martînez Campos",
+          "url": "https://app.foursquare.com/v/monumento-al-general-mart%C3%AEnez-campos/5124b269e4b01abdae9634c7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6841508993006054,
+          40.41573849985891
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 16:04:26.000000",
+        "venue": {
+          "id": "4c5ec1642815c928f456b867",
+          "name": "Estanque del Retiro",
+          "url": "https://app.foursquare.com/v/estanque-del-retiro/4c5ec1642815c928f456b867"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6885843051773435,
+          40.41685983310562
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 15:52:56.000000",
+        "venue": {
+          "id": "560f7c49498e45c037137430",
+          "name": "Parque de Madrid",
+          "url": "https://app.foursquare.com/v/parque-de-madrid/560f7c49498e45c037137430"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6966694605569046,
+          40.41590152951525
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 15:38:34.000000",
+        "venue": {
+          "id": "4adcda37f964a520093c21e3",
+          "name": "Congreso de los Diputados",
+          "url": "https://app.foursquare.com/v/congreso-de-los-diputados/4adcda37f964a520093c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7006233341960315,
+          40.416605314566915
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 15:10:08.000000",
+        "venue": {
+          "id": "4c19d00cfe5a76b06c320415",
+          "name": "Plaza de Canalejas",
+          "url": "https://app.foursquare.com/v/plaza-de-canalejas/4c19d00cfe5a76b06c320415"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.700618379273828,
+          40.414761679571185
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 15:05:01.000000",
+        "venue": {
+          "id": "51f89a40498e11c356721754",
+          "name": "Plaza Santa Ana",
+          "url": "https://app.foursquare.com/v/plaza-santa-ana/51f89a40498e11c356721754"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7016539685587397,
+          40.414216714261066
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 15:02:32.000000",
+        "venue": {
+          "id": "4cfd4f407f2db1f7c75237d4",
+          "name": "Plaza del Ángel",
+          "url": "https://app.foursquare.com/v/plaza-del-%C3%A1ngel/4cfd4f407f2db1f7c75237d4"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.710182282067575,
+          40.4115137184504
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 14:38:51.000000",
+        "venue": {
+          "id": "68905e83ec3654621beba4db",
+          "name": "Cheesequeria By la Carmela",
+          "url": "https://app.foursquare.com/v/cheesequeria-by-la-carmela/68905e83ec3654621beba4db"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7037301659237416,
+          40.41174490700473
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 12:17:50.000000",
+        "venue": {
+          "id": "4c5c090c7f661b8dfb5a471c",
+          "name": "Taberna Badila",
+          "url": "https://app.foursquare.com/v/taberna-badila/4c5c090c7f661b8dfb5a471c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7100930767006934,
+          40.42309579213094
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 11:24:12.000000",
+        "venue": {
+          "id": "6433112fbf57a0514742aaea",
+          "name": "Flying Tiger Copenhagen",
+          "url": "https://app.foursquare.com/v/flying-tiger-copenhagen/6433112fbf57a0514742aaea"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7168086977234043,
+          40.42457011478307
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 10:52:37.000000",
+        "venue": {
+          "id": "4adcda37f964a520113c21e3",
+          "name": "Templo de Debod",
+          "url": "https://app.foursquare.com/v/templo-de-debod/4adcda37f964a520113c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.713190577258147,
+          40.42206239870828
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 10:31:46.000000",
+        "venue": {
+          "id": "4adcda38f964a520713c21e3",
+          "name": "Jardines de Plaza de España",
+          "url": "https://app.foursquare.com/v/jardines-de-plaza-de-espa%C3%B1a/4adcda38f964a520713c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7103755609015043,
+          40.41506105374729
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 09:17:02.000000",
+        "venue": {
+          "id": "4adcda37f964a5201e3c21e3",
+          "name": "Plaza de la Villa",
+          "url": "https://app.foursquare.com/v/plaza-de-la-villa/4adcda37f964a5201e3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7080661748785717,
+          40.41380302950541
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 08:40:49.000000",
+        "venue": {
+          "id": "4b6d4abaf964a5209a6f2ce3",
+          "name": "Plaza de Puerta Cerrada",
+          "url": "https://app.foursquare.com/v/plaza-de-puerta-cerrada/4b6d4abaf964a5209a6f2ce3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.707208854513408,
+          40.415535111785644
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 07:57:18.000000",
+        "venue": {
+          "id": "4adcda37f964a520193c21e3",
+          "name": "Plaza Mayor",
+          "url": "https://app.foursquare.com/v/plaza-mayor/4adcda37f964a520193c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7072831880743946,
+          40.41622849969373
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-09 07:25:15.000000",
+        "venue": {
+          "id": "4adcda35f964a5207d3b21e3",
+          "name": "Chocolatería San Ginés",
+          "url": "https://app.foursquare.com/v/chocolater%C3%ADa-san-gin%C3%A9s/4adcda35f964a5207d3b21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711322142252706,
+          40.40710833943746
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 18:28:00.000000",
+        "venue": {
+          "id": "4adcda37f964a520263c21e3",
+          "name": "Puerta de Toledo",
+          "url": "https://app.foursquare.com/v/puerta-de-toledo/4adcda37f964a520263c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7097659916997463,
+          40.409350093134364
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 17:56:33.000000",
+        "venue": {
+          "id": "4b5e1e0df964a5209f7e29e3",
+          "name": "La Cabra en el Tejado",
+          "url": "https://app.foursquare.com/v/la-cabra-en-el-tejado/4b5e1e0df964a5209f7e29e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7010395493929518,
+          40.40842124710068
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 16:07:45.000000",
+        "venue": {
+          "id": "4d03c13528926ea8078067c2",
+          "name": "Carrefour Market",
+          "url": "https://app.foursquare.com/v/carrefour-market/4d03c13528926ea8078067c2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7133045688922177,
+          40.414380818587794
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 14:27:39.000000",
+        "venue": {
+          "id": "4adcda37f964a5203c3c21e3",
+          "name": "Viaducto de Segovia",
+          "url": "https://app.foursquare.com/v/viaducto-de-segovia/4adcda37f964a5203c3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7141570362002803,
+          40.41642093040958
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 12:42:05.000000",
+        "venue": {
+          "id": "4adcda37f964a5200e3c21e3",
+          "name": "Royal Palace of Madrid (Palacio Real de Madrid)",
+          "url": "https://app.foursquare.com/v/palacio-real-de-madrid/4adcda37f964a5200e3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7092902354693904,
+          40.417993118699044
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 12:05:50.000000",
+        "venue": {
+          "id": "4b464cb3f964a520f01c26e3",
+          "name": "Plaza de Isabel II",
+          "url": "https://app.foursquare.com/v/plaza-de-isabel-ii/4b464cb3f964a520f01c26e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7032792423115413,
+          40.41692303688946
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 11:57:23.000000",
+        "venue": {
+          "id": "4adcda37f964a5201f3c21e3",
+          "name": "Puerta del Sol",
+          "url": "https://app.foursquare.com/v/puerta-del-sol/4adcda37f964a5201f3c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7054100156128627,
+          40.41419113404336
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 11:42:59.000000",
+        "venue": {
+          "id": "4adcda37f964a520433c21e3",
+          "name": "Iglesia de la Santa Cruz",
+          "url": "https://app.foursquare.com/v/iglesia-de-la-santa-cruz/4adcda37f964a520433c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7091316510524757,
+          40.41549844831335
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 11:30:50.000000",
+        "venue": {
+          "id": "4adcda40f964a5206e3e21e3",
+          "name": "Mercado de San Miguel",
+          "url": "https://app.foursquare.com/v/mercado-de-san-miguel/4adcda40f964a5206e3e21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7073426550017534,
+          40.41556562085771
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 11:02:35.000000",
+        "venue": {
+          "id": "4adcda37f964a520193c21e3",
+          "name": "Plaza Mayor",
+          "url": "https://app.foursquare.com/v/plaza-mayor/4adcda37f964a520193c21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711163551473284,
+          40.409171159386126
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 10:33:34.000000",
+        "venue": {
+          "id": "89df84ded84343a2f6338b3d",
+          "name": "The Cofee Bar Calatrava 10",
+          "url": "https://app.foursquare.com/v/the-cofee-bar-calatrava-10/89df84ded84343a2f6338b3d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7114212617420086,
+          40.40934183900398
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 10:10:14.000000",
+        "venue": {
+          "id": "4bc206c7abf49521bfccc193",
+          "name": "Metro La Latina",
+          "url": "https://app.foursquare.com/v/metro-la-latina/4bc206c7abf49521bfccc193"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68284819584779,
+          40.47355577090834
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 09:21:30.000000",
+        "venue": {
+          "id": "4ea86ec2dab4888810c6e222",
+          "name": "Metro Chamartín",
+          "url": "https://app.foursquare.com/v/metro-chamart%C3%ADn/4ea86ec2dab4888810c6e222"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6804261482680136,
+          40.47351356476264
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 09:09:03.000000",
+        "venue": {
+          "id": "4b8372e0f964a520960631e3",
+          "name": "Madrid-Chamartín Railway Station (Estación de Madrid-Chamartín-Clara Campoamor)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-madridchamart%C3%ADn/4b8372e0f964a520960631e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1437320812069984,
+          40.03408803332418
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 07:52:55.000000",
+        "venue": {
+          "id": "4d0e56e8257d6dcbe48ea167",
+          "name": "Estación Cuenca-Fernándo Zóbel | ADIF",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-cuencafern%C3%A1ndo-z%C3%B3bel--adif/4d0e56e8257d6dcbe48ea167"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.139257999146222,
+          40.07606817917174
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-08 06:12:43.000000",
+        "venue": {
+          "id": "4c641fc258810f4732540b1e",
+          "name": "Cuenca",
+          "url": "https://app.foursquare.com/v/cuenca/4c641fc258810f4732540b1e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.132741886153252,
+          40.07540746956151
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-07 15:29:32.000000",
+        "venue": {
+          "id": "4f2196fce4b0d23f2bea996c",
+          "name": "Plaza Del Salvador",
+          "url": "https://app.foursquare.com/v/plaza-del-salvador/4f2196fce4b0d23f2bea996c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.131193309679285,
+          40.076481451910894
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-07 15:05:08.000000",
+        "venue": {
+          "id": "4e550f67b0fb1e3684c997b7",
+          "name": "Torre de Mangana",
+          "url": "https://app.foursquare.com/v/torre-de-mangana/4e550f67b0fb1e3684c997b7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1283695725049454,
+          40.07807901274621
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-07 14:48:13.000000",
+        "venue": {
+          "id": "4c07dafa271dc9b67a7a2b9a",
+          "name": "San Pablo Bridge (Puente de San Pablo)",
+          "url": "https://app.foursquare.com/v/puente-de-san-pablo/4c07dafa271dc9b67a7a2b9a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.129798198305312,
+          40.08097430469733
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-07 14:26:44.000000",
+        "venue": {
+          "id": "4e22dbc118a88345f05a9389",
+          "name": "Ermita de las Angustias",
+          "url": "https://app.foursquare.com/v/ermita-de-las-angustias/4e22dbc118a88345f05a9389"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0864419533539937,
+          40.23322108300378
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-07 12:59:52.000000",
+        "venue": {
+          "id": "4e2adb2418387cce066c1153",
+          "name": "Restaurante Nelia",
+          "url": "https://app.foursquare.com/v/restaurante-nelia/4e2adb2418387cce066c1153"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0036559073675977,
+          40.28393213822977
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-07 09:33:57.000000",
+        "venue": {
+          "id": "4e36d74752b17fb1c6162ec0",
+          "name": "Callejones de las Majadas",
+          "url": "https://app.foursquare.com/v/callejones-de-las-majadas/4e36d74752b17fb1c6162ec0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1405095463295525,
+          40.07484946951694
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 20:39:24.000000",
+        "venue": {
+          "id": "4cc3230891413704739ab955",
+          "name": "Mesón Restaurante El Bodegón",
+          "url": "https://app.foursquare.com/v/mes%C3%B3n-restaurante-el-bodeg%C3%B3n/4cc3230891413704739ab955"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1305317050635284,
+          40.07516283407429
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 17:57:33.000000",
+        "venue": {
+          "id": "55bbf2de498e227e27230bc3",
+          "name": "Grotte",
+          "url": "https://app.foursquare.com/v/grotte/55bbf2de498e227e27230bc3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.123456022375844,
+          40.075707529088
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 13:18:44.000000",
+        "venue": {
+          "id": "4dea930a1f6e3ddebdd066ad",
+          "name": "Sagrado Corazón de Jesús",
+          "url": "https://app.foursquare.com/v/sagrado-coraz%C3%B3n-de-jes%C3%BAs/4dea930a1f6e3ddebdd066ad"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1251481403409027,
+          40.08193981745107
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 11:34:38.000000",
+        "venue": {
+          "id": "4dcdaf22d22deadedd3f610d",
+          "name": "Mesón El Torreón",
+          "url": "https://app.foursquare.com/v/mes%C3%B3n-el-torre%C3%B3n/4dcdaf22d22deadedd3f610d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.130253642266888,
+          40.07784439800244
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 10:53:53.000000",
+        "venue": {
+          "id": "4c5fd6f254ac0f47913eb421",
+          "name": "Plaza Mayor",
+          "url": "https://app.foursquare.com/v/plaza-mayor/4c5fd6f254ac0f47913eb421"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1298509336852667,
+          40.07844208460067
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 10:51:45.000000",
+        "venue": {
+          "id": "4f6da081e4b0725b614a1670",
+          "name": "Catedral de Santa María y San Julián de Cuenca",
+          "url": "https://app.foursquare.com/v/catedral-de-santa-mar%C3%ADa-y-san-juli%C3%A1n-de-cuenca/4f6da081e4b0725b614a1670"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1269026416723356,
+          40.081752658309895
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 10:14:45.000000",
+        "venue": {
+          "id": "4e15987f483b0d8571d221a7",
+          "name": "Castle of Cuenca (Castillo de Cuenca)",
+          "url": "https://app.foursquare.com/v/castillo-de-cuenca/4e15987f483b0d8571d221a7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1269026416723356,
+          40.081752658309895
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-06 10:14:29.000000",
+        "venue": {
+          "id": "4dfd32b4149599f28fcd9341",
+          "name": "Arco de Bezudo",
+          "url": "https://app.foursquare.com/v/arco-de-bezudo/4dfd32b4149599f28fcd9341"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.130454997913039,
+          40.07517924841094
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-05 19:55:01.000000",
+        "venue": {
+          "id": "55bbf2de498e227e27230bc3",
+          "name": "Grotte",
+          "url": "https://app.foursquare.com/v/grotte/55bbf2de498e227e27230bc3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1266437765046584,
+          40.079066089095164
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-05 17:16:44.000000",
+        "venue": {
+          "id": "4bc8ef55762beee11ab83d38",
+          "name": "Hotel Parador de Cuenca",
+          "url": "https://app.foursquare.com/v/hotel-parador-de-cuenca/4bc8ef55762beee11ab83d38"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.126926610744903,
+          40.07820547452337
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-05 17:04:33.000000",
+        "venue": {
+          "id": "4c07dafa271dc9b67a7a2b9a",
+          "name": "San Pablo Bridge (Puente de San Pablo)",
+          "url": "https://app.foursquare.com/v/puente-de-san-pablo/4c07dafa271dc9b67a7a2b9a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1434539366391707,
+          40.03357751458437
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-05 13:22:56.000000",
+        "venue": {
+          "id": "4d0e56e8257d6dcbe48ea167",
+          "name": "Estación Cuenca-Fernándo Zóbel | ADIF",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-cuencafern%C3%A1ndo-z%C3%B3bel--adif/4d0e56e8257d6dcbe48ea167"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6936274673528353,
+          40.407748071126605
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-05 11:20:03.000000",
+        "venue": {
+          "id": "4b5d329ef964a520405629e3",
+          "name": "Madrid-Puerta de Atocha Railway Station (Estación de Madrid-Puerta de Atocha)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-madridpuerta-de-atocha/4b5d329ef964a520405629e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9733518203876095,
+          37.39376713200775
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-05 08:33:23.000000",
+        "venue": {
+          "id": "4b59bcedf964a5206a9528e3",
+          "name": "Sevilla-Santa Justa Railway Station (Estación de Sevilla-Santa Justa)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-sevillasanta-justa/4b59bcedf964a5206a9528e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.992312965803337,
+          37.385173271934875
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 18:33:10.000000",
+        "venue": {
+          "id": "4c0cb9b998102d7f8010e106",
+          "name": "Triunfo Square (Plaza del Triunfo)",
+          "url": "https://app.foursquare.com/v/plaza-del-triunfo/4c0cb9b998102d7f8010e106"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994213537865641,
+          37.38815921324706
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 17:56:07.000000",
+        "venue": {
+          "id": "4b69508cf964a520979e2be3",
+          "name": "San Francisco Square (Plaza de San Francisco)",
+          "url": "https://app.foursquare.com/v/plaza-de-san-francisco/4b69508cf964a520979e2be3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99353696871115,
+          37.384461557824565
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 17:38:00.000000",
+        "venue": {
+          "id": "5b62fe99e679bc002c95ba73",
+          "name": "Archivo General De Indias",
+          "url": "https://app.foursquare.com/v/archivo-general-de-indias/5b62fe99e679bc002c95ba73"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99353696871115,
+          37.384461557824565
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 17:37:53.000000",
+        "venue": {
+          "id": "4b4c0c15f964a52091ad26e3",
+          "name": "Torre del Oro",
+          "url": "https://app.foursquare.com/v/torre-del-oro/4b4c0c15f964a52091ad26e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9938571760739645,
+          37.38209589127449
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 16:48:08.000000",
+        "venue": {
+          "id": "522e46592fc65f3f69138553",
+          "name": "Fuente de Híspalis",
+          "url": "https://app.foursquare.com/v/fuente-de-h%C3%ADspalis/522e46592fc65f3f69138553"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9929120527521675,
+          37.38991951413286
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 14:37:45.000000",
+        "venue": {
+          "id": "4d84b999f1e56ea80b727a8a",
+          "name": "Iglesia del Salvador",
+          "url": "https://app.foursquare.com/v/iglesia-del-salvador/4d84b999f1e56ea80b727a8a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.992932711028216,
+          37.38592154563279
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 13:50:14.000000",
+        "venue": {
+          "id": "51f797d3498e8ef92b4e77d0",
+          "name": "Tomb of Christopher Columbus (Tumba de Cristóbal Colón)",
+          "url": "https://app.foursquare.com/v/tumba-de-crist%C3%B3bal-col%C3%B3n/51f797d3498e8ef92b4e77d0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.992932711028216,
+          37.38592154563279
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 13:50:05.000000",
+        "venue": {
+          "id": "4b4b59caf964a520799826e3",
+          "name": "Seville Cathedral (Catedral de Sevilla)",
+          "url": "https://app.foursquare.com/v/cathedral-of-seville/4b4b59caf964a520799826e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.992932711028216,
+          37.38592154563279
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 13:49:48.000000",
+        "venue": {
+          "id": "4b8274eaf964a520b2d330e3",
+          "name": "The Giralda (La Giralda)",
+          "url": "https://app.foursquare.com/v/la-giralda/4b8274eaf964a520b2d330e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99329423199646,
+          37.38480651138569
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 11:28:04.000000",
+        "venue": {
+          "id": "5b62fe99e679bc002c95ba73",
+          "name": "Archivo General De Indias",
+          "url": "https://app.foursquare.com/v/archivo-general-de-indias/5b62fe99e679bc002c95ba73"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99163641781968,
+          37.38388208885033
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 09:39:52.000000",
+        "venue": {
+          "id": "4e086d0545ddb2875c503f21",
+          "name": "Royal Alcazar of Seville (Real Alcázar de Sevilla)",
+          "url": "https://app.foursquare.com/v/real-alc%C3%A1zar-de-sevilla/4e086d0545ddb2875c503f21"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.992023753529275,
+          37.38605593879489
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 08:31:03.000000",
+        "venue": {
+          "id": "4bcc4e0ccc8cd13a98a2c0cf",
+          "name": "Virgen de los Reyes Square (Plaza Virgen de los Reyes)",
+          "url": "https://app.foursquare.com/v/plaza-virgen-de-los-reyes/4bcc4e0ccc8cd13a98a2c0cf"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.991471155335467,
+          37.39363577963547
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 07:46:21.000000",
+        "venue": {
+          "id": "5d062454b6eedb002c604fee",
+          "name": "Setas de Sevilla",
+          "url": "https://app.foursquare.com/v/setas-de-sevilla/5d062454b6eedb002c604fee"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.995835268655622,
+          37.39285341571352
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 07:29:14.000000",
+        "venue": {
+          "id": "4cb20127562d224b92622388",
+          "name": "Duque de la Victoria Square (Plaza del Duque)",
+          "url": "https://app.foursquare.com/v/plaza-del-duque/4cb20127562d224b92622388"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.999430087409281,
+          37.39259843384414
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 07:21:54.000000",
+        "venue": {
+          "id": "4c83f6b9d92ea093d1e55872",
+          "name": "Plaza del Museo",
+          "url": "https://app.foursquare.com/v/plaza-del-museo/4c83f6b9d92ea093d1e55872"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.001113940593808,
+          37.391811419985295
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-04 07:18:55.000000",
+        "venue": {
+          "id": "4d31fa905c2db60c4d85bd6c",
+          "name": "Seville (Sevilla)",
+          "url": "https://app.foursquare.com/v/sevilla/4d31fa905c2db60c4d85bd6c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99471451377486,
+          37.38565976539926
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 16:08:27.000000",
+        "venue": {
+          "id": "4c0b7c3f7e3fc928c75cf582",
+          "name": "Plaza del Cabildo",
+          "url": "https://app.foursquare.com/v/plaza-del-cabildo/4c0b7c3f7e3fc928c75cf582"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99471451377486,
+          37.38565976539926
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 16:08:21.000000",
+        "venue": {
+          "id": "627fcefe91f80f75ced7c0ee",
+          "name": "Gelateria Mito",
+          "url": "https://app.foursquare.com/v/gelateria-mito/627fcefe91f80f75ced7c0ee"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.993283902796075,
+          37.38270709905527
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 15:54:53.000000",
+        "venue": {
+          "id": "522e46592fc65f3f69138553",
+          "name": "Fuente de Híspalis",
+          "url": "https://app.foursquare.com/v/fuente-de-h%C3%ADspalis/522e46592fc65f3f69138553"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98694726950923,
+          37.376207826670466
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 15:09:41.000000",
+        "venue": {
+          "id": "440a59dc7c1c4c4dce6853e4",
+          "name": "Plaza de España (Sevilla)",
+          "url": "https://app.foursquare.com/v/plaza-de-espa%C3%B1a-sevilla/440a59dc7c1c4c4dce6853e4"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.988765046136457,
+          37.37551282701125
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 14:56:09.000000",
+        "venue": {
+          "id": "4bc1ee3274a9a5935268d2f6",
+          "name": "María Luisa Park (Parque de María Luisa)",
+          "url": "https://app.foursquare.com/v/parque-de-mar%C3%ADa-luisa/4bc1ee3274a9a5935268d2f6"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994094750369448,
+          37.38006181531955
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 14:38:28.000000",
+        "venue": {
+          "id": "4cc05975a0c4f04d9e3f5a31",
+          "name": "Palace of San Telmo (Palacio de San Telmo)",
+          "url": "https://app.foursquare.com/v/palacio-de-san-telmo/4cc05975a0c4f04d9e3f5a31"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99643955521232,
+          37.382079413656854
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 14:30:19.000000",
+        "venue": {
+          "id": "4b4c0c15f964a52091ad26e3",
+          "name": "Torre del Oro",
+          "url": "https://app.foursquare.com/v/torre-del-oro/4b4c0c15f964a52091ad26e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9951431871629595,
+          37.3884603484368
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 14:03:33.000000",
+        "venue": {
+          "id": "4b694d47f964a520389e2be3",
+          "name": "Plaza Nueva Square (Plaza Nueva)",
+          "url": "https://app.foursquare.com/v/plaza-nueva/4b694d47f964a520389e2be3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.002761682582699,
+          37.39260616085085
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 12:05:58.000000",
+        "venue": {
+          "id": "58f1ed6551950e59f0c7d618",
+          "name": "Mercadona",
+          "url": "https://app.foursquare.com/v/mercadona/58f1ed6551950e59f0c7d618"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00234845155519,
+          37.39143696622976
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 11:41:31.000000",
+        "venue": {
+          "id": "4b700470f964a5209a032de3",
+          "name": "Plaza de Armas Shopping Centre (C.C. Plaza de Armas)",
+          "url": "https://app.foursquare.com/v/cc-plaza-de-armas/4b700470f964a5209a032de3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.003836096401319,
+          37.39159536467255
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 10:56:39.000000",
+        "venue": {
+          "id": "4b97f240f964a520672135e3",
+          "name": "Plaza de Armas Bus Station (Estación de Autobuses Plaza de Armas)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-autobuses-plaza-de-armas/4b97f240f964a520672135e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.613818379498998,
+          37.19966180660346
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 07:53:17.000000",
+        "venue": {
+          "id": "5c925bcfd8096e002cbfb98e",
+          "name": "Alsa Supra Grenada-Seville",
+          "url": "https://app.foursquare.com/v/alsa-supra-grenadaseville/5c925bcfd8096e002cbfb98e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6146642214045177,
+          37.188886093421836
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 07:40:45.000000",
+        "venue": {
+          "id": "5b5ba6c290d1ed002c1ee60e",
+          "name": "Estación De Metro De Villarejo",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-metro-de-villarejo/5b5ba6c290d1ed002c1ee60e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6038968759379832,
+          37.18352406635292
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 07:07:56.000000",
+        "venue": {
+          "id": "67c1f9b96971f9689eeba8bd",
+          "name": "Centro-Sagrario",
+          "url": "https://app.foursquare.com/v/centrosagrario/67c1f9b96971f9689eeba8bd"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.603080887319181,
+          37.179714048877116
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-03 06:30:46.000000",
+        "venue": {
+          "id": "63b563303df8a958fe28f508",
+          "name": "Severino Café",
+          "url": "https://app.foursquare.com/v/severino-caf%C3%A9/63b563303df8a958fe28f508"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60172093574641,
+          37.18425874661901
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 19:26:54.000000",
+        "venue": {
+          "id": "c22c7cf41bde4562a77ebf32",
+          "name": "Fuente del Triunfo",
+          "url": "https://app.foursquare.com/v/fuente-del-triunfo/c22c7cf41bde4562a77ebf32"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6015181824844578,
+          37.17825148903879
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 18:59:26.000000",
+        "venue": {
+          "id": "607adcf6f047df0cd5a39b4f",
+          "name": "Humo",
+          "url": "https://app.foursquare.com/v/humo/607adcf6f047df0cd5a39b4f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6015132372931724,
+          37.176391614348184
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 18:09:05.000000",
+        "venue": {
+          "id": "5bc248c42b9844002c45028a",
+          "name": "Grillo Gelato Italiano",
+          "url": "https://app.foursquare.com/v/grillo-gelato-italiano/5bc248c42b9844002c45028a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5996786049291583,
+          37.17549626694532
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 18:03:36.000000",
+        "venue": {
+          "id": "4d9084e4d4ec8cfa764ea489",
+          "name": "Artesanias Medina",
+          "url": "https://app.foursquare.com/v/artesanias-medina/4d9084e4d4ec8cfa764ea489"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5991791613646806,
+          37.176023434453604
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 17:38:29.000000",
+        "venue": {
+          "id": "5205290b11d2a236f6060909",
+          "name": "Iglesia del Sagrario",
+          "url": "https://app.foursquare.com/v/iglesia-del-sagrario/5205290b11d2a236f6060909"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5998071753636207,
+          37.17562299571964
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 17:33:31.000000",
+        "venue": {
+          "id": "4bbaf53ab35776b08671cb01",
+          "name": "Plaza de Bib-Rambla",
+          "url": "https://app.foursquare.com/v/plaza-de-bibrambla/4bbaf53ab35776b08671cb01"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5988577399158186,
+          37.17417830779034
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 17:27:26.000000",
+        "venue": {
+          "id": "4db41bf15da3a76f443764e3",
+          "name": "Plaza del Carmen",
+          "url": "https://app.foursquare.com/v/plaza-del-carmen/4db41bf15da3a76f443764e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.600079152367411,
+          37.18222397447167
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 16:56:17.000000",
+        "venue": {
+          "id": "4c0010bdc30a2d7f0ff2111d",
+          "name": "Puerta Elvira",
+          "url": "https://app.foursquare.com/v/puerta-elvira/4c0010bdc30a2d7f0ff2111d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5979874398594114,
+          37.174951833394346
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 13:43:50.000000",
+        "venue": {
+          "id": "4ccf24362fd9b60c56ca79eb",
+          "name": "Corral del Carbón",
+          "url": "https://app.foursquare.com/v/corral-del-carb%C3%B3n/4ccf24362fd9b60c56ca79eb"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596049098497609,
+          37.168724578948925
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 13:12:51.000000",
+        "venue": {
+          "id": "4d6ebda96d8fa14383768d4b",
+          "name": "Puente Romano",
+          "url": "https://app.foursquare.com/v/puente-romano/4d6ebda96d8fa14383768d4b"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5966029026786606,
+          37.170003716974236
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 13:00:47.000000",
+        "venue": {
+          "id": "4dc46c12d22dafda2f8af64a",
+          "name": "Taberna Hermanos Granados",
+          "url": "https://app.foursquare.com/v/taberna-hermanos-granados/4dc46c12d22dafda2f8af64a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59770558455237,
+          37.170889996723425
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 12:18:39.000000",
+        "venue": {
+          "id": "4b6dca87f964a52036902ce3",
+          "name": "El Corte Inglés",
+          "url": "https://app.foursquare.com/v/el-corte-ingl%C3%A9s/4b6dca87f964a52036902ce3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.604109529694863,
+          37.17277559585175
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 11:34:12.000000",
+        "venue": {
+          "id": "4cd47b4c94848cfa73eddfb1",
+          "name": "Plaza de Gracia",
+          "url": "https://app.foursquare.com/v/plaza-de-gracia/4cd47b4c94848cfa73eddfb1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6015379632544677,
+          37.17603557399573
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 11:24:02.000000",
+        "venue": {
+          "id": "4bbaf67f3db7b71376d1239a",
+          "name": "Plaza de la Trinidad",
+          "url": "https://app.foursquare.com/v/plaza-de-la-trinidad/4bbaf67f3db7b71376d1239a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.599831900484912,
+          37.17627013366642
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 11:14:23.000000",
+        "venue": {
+          "id": "62f12de01f5de126015880a3",
+          "name": "Cerámica Miguel Muñoz",
+          "url": "https://app.foursquare.com/v/cer%C3%A1mica-miguel-mu%C3%B1oz/62f12de01f5de126015880a3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.599831900484912,
+          37.17627013366642
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 11:13:53.000000",
+        "venue": {
+          "id": "58625d378190793ef720de86",
+          "name": "La Tarta de La Madre de Cris",
+          "url": "https://app.foursquare.com/v/la-tarta-de-la-madre-de-cris/58625d378190793ef720de86"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596187548970114,
+          37.18073265592305
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 10:29:07.000000",
+        "venue": {
+          "id": "520955fe498e61de16a8cb52",
+          "name": "Monasterio Santa Isabel La Real",
+          "url": "https://app.foursquare.com/v/monasterio-santa-isabel-la-real/520955fe498e61de16a8cb52"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5954260760966656,
+          37.180813166312745
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 10:24:34.000000",
+        "venue": {
+          "id": "530b8226498e841dbc19f3f1",
+          "name": "Placeta Cristo de las Azucenas",
+          "url": "https://app.foursquare.com/v/placeta-cristo-de-las-azucenas/530b8226498e841dbc19f3f1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5961529363161895,
+          37.177954183394675
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 10:11:02.000000",
+        "venue": {
+          "id": "4d56b52758856dcb26815b6d",
+          "name": "Iglesia de San Gregorio",
+          "url": "https://app.foursquare.com/v/iglesia-de-san-gregorio/4d56b52758856dcb26815b6d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5957326417086017,
+          37.176937614930516
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 10:02:24.000000",
+        "venue": {
+          "id": "4bb72211ef159c7456d676f7",
+          "name": "Plaza Nueva",
+          "url": "https://app.foursquare.com/v/plaza-nueva/4bb72211ef159c7456d676f7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.589438532900076,
+          37.18015300376752
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 09:25:48.000000",
+        "venue": {
+          "id": "50b391aee4b0965061115f53",
+          "name": "Placeta de la Victoria",
+          "url": "https://app.foursquare.com/v/placeta-de-la-victoria/50b391aee4b0965061115f53"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5848507091448787,
+          37.182867182677114
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 09:03:54.000000",
+        "venue": {
+          "id": "500ac5e9e4b0464fbf74a3b3",
+          "name": "Sacramonte",
+          "url": "https://app.foursquare.com/v/sacramonte/500ac5e9e4b0464fbf74a3b3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.587802095039749,
+          37.18423049620645
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 08:40:36.000000",
+        "venue": {
+          "id": "4fccd650e4b07c4ac07a8ae9",
+          "name": "Mirador San Miguel Alto",
+          "url": "https://app.foursquare.com/v/mirador-san-miguel-alto/4fccd650e4b07c4ac07a8ae9"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5915002239456184,
+          37.1863390957097
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 08:22:15.000000",
+        "venue": {
+          "id": "52825454498e98e476b7c402",
+          "name": "Puerta de Fajalauza",
+          "url": "https://app.foursquare.com/v/puerta-de-fajalauza/52825454498e98e476b7c402"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.603075941974027,
+          37.18244661738487
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-02 08:04:22.000000",
+        "venue": {
+          "id": "1cbd6d5926284020eb22f96d",
+          "name": "Horno del Progreso",
+          "url": "https://app.foursquare.com/v/horno-del-progreso/1cbd6d5926284020eb22f96d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.592558294925889,
+          37.18119246915165
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 17:27:41.000000",
+        "venue": {
+          "id": "508e7e7364a4e59f0f5d40f0",
+          "name": "Mirador de San Nicolás",
+          "url": "https://app.foursquare.com/v/mirador-de-san-nicol%C3%A1s/508e7e7364a4e59f0f5d40f0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.592167696031886,
+          37.18001307107095
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 16:52:56.000000",
+        "venue": {
+          "id": "51c2f13b498e31f20cdf2277",
+          "name": "Iglesia San Juan De Los Reyes",
+          "url": "https://app.foursquare.com/v/iglesia-san-juan-de-los-reyes/51c2f13b498e31f20cdf2277"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5961183236861314,
+          37.17684757262692
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 15:56:33.000000",
+        "venue": {
+          "id": "4bb72211ef159c7456d676f7",
+          "name": "Plaza Nueva",
+          "url": "https://app.foursquare.com/v/plaza-nueva/4bb72211ef159c7456d676f7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.599426410033124,
+          37.176533208698366
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 13:13:25.000000",
+        "venue": {
+          "id": "4b6ae822f964a52047e62be3",
+          "name": "Catedral de Granada",
+          "url": "https://app.foursquare.com/v/catedral-de-granada/4b6ae822f964a52047e62be3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5969391439120946,
+          37.17219859972117
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 11:45:14.000000",
+        "venue": {
+          "id": "4c9654ed82b56dcb2299e0aa",
+          "name": "Café Fútbol",
+          "url": "https://app.foursquare.com/v/caf%C3%A9-f%C3%BAtbol/4c9654ed82b56dcb2299e0aa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5855873034332064,
+          37.177474028751284
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 10:38:42.000000",
+        "venue": {
+          "id": "4dd91cd752b1a5c644750399",
+          "name": "Palacio del Generalife",
+          "url": "https://app.foursquare.com/v/palacio-del-generalife/4dd91cd752b1a5c644750399"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.587940522761905,
+          37.17551159381809
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 10:14:21.000000",
+        "venue": {
+          "id": "515c07f8e4b04a5c063129a1",
+          "name": "Palacio de los Abencerrajes",
+          "url": "https://app.foursquare.com/v/palacio-de-los-abencerrajes/515c07f8e4b04a5c063129a1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.592093532028338,
+          37.17828594014687
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 09:42:42.000000",
+        "venue": {
+          "id": "4bd0559f77b29c746e808a82",
+          "name": "Alcazaba",
+          "url": "https://app.foursquare.com/v/alcazaba/4bd0559f77b29c746e808a82"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5922319715902833,
+          37.176986005238
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 09:41:10.000000",
+        "venue": {
+          "id": "4d63baf695b28cfaeaae4ffa",
+          "name": "Torre de la Vela",
+          "url": "https://app.foursquare.com/v/torre-de-la-vela/4d63baf695b28cfaeaae4ffa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.588958967031366,
+          37.17728343465076
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 08:30:09.000000",
+        "venue": {
+          "id": "4c30a8ee66e40f479dcec38b",
+          "name": "Palacios Nazaríes",
+          "url": "https://app.foursquare.com/v/palacios-nazar%C3%ADes/4c30a8ee66e40f479dcec38b"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6041144751417815,
+          37.18325625019568
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-09-01 06:15:02.000000",
+        "venue": {
+          "id": "67c1f9b96971f9689eeba8bd",
+          "name": "Centro-Sagrario",
+          "url": "https://app.foursquare.com/v/centrosagrario/67c1f9b96971f9689eeba8bd"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5975325162882776,
+          37.17097883972222
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 18:45:30.000000",
+        "venue": {
+          "id": "4b6dca87f964a52036902ce3",
+          "name": "El Corte Inglés",
+          "url": "https://app.foursquare.com/v/el-corte-ingl%C3%A9s/4b6dca87f964a52036902ce3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5986104940475645,
+          37.17199647520334
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 18:22:40.000000",
+        "venue": {
+          "id": "4c3a39813849c928de9dc2b1",
+          "name": "Fuente de Las Batallas",
+          "url": "https://app.foursquare.com/v/fuente-de-las-batallas/4c3a39813849c928de9dc2b1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59982695545968,
+          37.175909766478384
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 18:11:17.000000",
+        "venue": {
+          "id": "4c2659193703d13a2f3ba536",
+          "name": "Plaza de las Pasiegas",
+          "url": "https://app.foursquare.com/v/plaza-de-las-pasiegas/4c2659193703d13a2f3ba536"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.601552798837088,
+          37.1764478888431
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 17:58:38.000000",
+        "venue": {
+          "id": "5bc248c42b9844002c45028a",
+          "name": "Grillo Gelato Italiano",
+          "url": "https://app.foursquare.com/v/grillo-gelato-italiano/5bc248c42b9844002c45028a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6014934565329004,
+          37.17847690099292
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 17:50:47.000000",
+        "venue": {
+          "id": "4dc5185952b1e8f9f7cabe1e",
+          "name": "San Justo y Pastor",
+          "url": "https://app.foursquare.com/v/san-justo-y-pastor/4dc5185952b1e8f9f7cabe1e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6024874493771866,
+          37.18146136460328
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 16:40:33.000000",
+        "venue": {
+          "id": "59cec4035161135b15a8d16f",
+          "name": "Carrefour Express",
+          "url": "https://app.foursquare.com/v/carrefour-express/59cec4035161135b15a8d16f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6137194515507836,
+          37.19964914609269
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 15:10:35.000000",
+        "venue": {
+          "id": "4bd4698f6798ef3b3a86618d",
+          "name": "Granada Bus Station (Estación de Autobuses de Granada)",
+          "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-autobuses-de-granada/4bd4698f6798ef3b3a86618d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4950138340183425,
+          36.678569895886724
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 11:58:43.000000",
+        "venue": {
+          "id": "4b8399a6f964a520f00a31e3",
+          "name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
+          "url": "https://app.foursquare.com/v/aeropuerto-de-m%C3%A1laga--costa-del-sol-agp/4b8399a6f964a520f00a31e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78608546448661,
+          48.35370845804091
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 06:20:38.000000",
+        "venue": {
+          "id": "4cbd1bfaf50e224b160503fc",
+          "name": "Munich Airport Franz Josef Strauss (MUC) (Flughafen München Franz Josef Strauß)",
+          "url": "https://app.foursquare.com/v/flughafen-m%C3%BCnchen-franz-josef-strau%C3%9F-muc/4cbd1bfaf50e224b160503fc"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.785771433726465,
+          48.35376567671061
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 06:17:34.000000",
+        "venue": {
+          "id": "4d4c974ccca5f04d84568080",
+          "name": "Bahnhof Flughafen München",
+          "url": "https://app.foursquare.com/v/bahnhof-flughafen-m%C3%BCnchen/4d4c974ccca5f04d84568080"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56550403332108,
+          48.139230142964564
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 05:28:17.000000",
+        "venue": {
+          "id": "4b616276f964a520ba112ae3",
+          "name": "S+U Karlsplatz (Stachus)",
+          "url": "https://app.foursquare.com/v/su-karlsplatz-stachus/4b616276f964a520ba112ae3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565723114657933,
+          48.135527246813155
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-31 05:25:26.000000",
+        "venue": {
+          "id": "5d25934b9df1dc0023cfb011",
+          "name": "Premier Inn Munich City Zentrum",
+          "url": "https://app.foursquare.com/v/premier-inn-munich-city-zentrum/5d25934b9df1dc0023cfb011"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582846737446024,
+          48.13407417106324
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 17:39:00.000000",
+        "venue": {
+          "id": "64a05bf60d50b42148f79e8d",
+          "name": "PEPE PIZZA am Isartor",
+          "url": "https://app.foursquare.com/v/pepe-pizza-am-isartor/64a05bf60d50b42148f79e8d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586860576465604,
+          48.13183726844487
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 16:43:44.000000",
+        "venue": {
+          "id": "51812285498e592c2fa3f0cd",
+          "name": "Isle de l'amour",
+          "url": "https://app.foursquare.com/v/isle-de-lamour/51812285498e592c2fa3f0cd"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576125249981045,
+          48.13614440325683
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 13:28:15.000000",
+        "venue": {
+          "id": "4ade0cd2f964a520396921e3",
+          "name": "St. Peter",
+          "url": "https://app.foursquare.com/v/st-peter/4ade0cd2f964a520396921e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576378935672794,
+          48.136978540745076
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 12:19:20.000000",
+        "venue": {
+          "id": "66d30fbbc1494c3b2661a510",
+          "name": "Venchi Gelateria",
+          "url": "https://app.foursquare.com/v/venchi-gelateria/66d30fbbc1494c3b2661a510"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57650757315896,
+          48.13560425014271
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 12:00:44.000000",
+        "venue": {
+          "id": "4ade0d12f964a5209c6a21e3",
+          "name": "Viktualienmarkt",
+          "url": "https://app.foursquare.com/v/viktualienmarkt/4ade0d12f964a5209c6a21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.577823759908494,
+          48.14064001827063
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 10:45:41.000000",
+        "venue": {
+          "id": "4bbd0f9a593fef3b03040356",
+          "name": "Residenz",
+          "url": "https://app.foursquare.com/v/residenz/4bbd0f9a593fef3b03040356"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573593947713254,
+          48.135920500101804
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 09:23:19.000000",
+        "venue": {
+          "id": "4b2aa139f964a5209dac24e3",
+          "name": "Rindermarkt",
+          "url": "https://app.foursquare.com/v/rindermarkt/4b2aa139f964a5209dac24e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.579025456478911,
+          48.14249331094025
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 08:11:15.000000",
+        "venue": {
+          "id": "4ba52c22f964a52075e738e3",
+          "name": "Hofgarten",
+          "url": "https://app.foursquare.com/v/hofgarten/4ba52c22f964a52075e738e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581352566298689,
+          48.14225140490169
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 08:05:31.000000",
+        "venue": {
+          "id": "4bd0afa9046076b0967c7071",
+          "name": "Bayerische Staatskanzlei",
+          "url": "https://app.foursquare.com/v/bayerische-staatskanzlei/4bd0afa9046076b0967c7071"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58777673302442,
+          48.14351367183899
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 07:49:23.000000",
+        "venue": {
+          "id": "4c1369ec7f7f2d7f9b01df68",
+          "name": "Eisbach Wave (Eisbachwelle)",
+          "url": "https://app.foursquare.com/v/eisbachwelle/4c1369ec7f7f2d7f9b01df68"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578829143710365,
+          48.13822297991514
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 07:26:11.000000",
+        "venue": {
+          "id": "680d21c63e4280065174a1c6",
+          "name": "Poststation 701",
+          "url": "https://app.foursquare.com/v/poststation-701/680d21c63e4280065174a1c6"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576732017232976,
+          48.13619565271146
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 07:15:36.000000",
+        "venue": {
+          "id": "603a5ef71f3ccb3d3dac9699",
+          "name": "Fritz Mühlenbäckerei",
+          "url": "https://app.foursquare.com/v/fritz-m%C3%BChlenb%C3%A4ckerei/603a5ef71f3ccb3d3dac9699"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57577703745335,
+          48.136455039515745
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 07:10:57.000000",
+        "venue": {
+          "id": "4ade0cd2f964a520396921e3",
+          "name": "St. Peter",
+          "url": "https://app.foursquare.com/v/st-peter/4ade0cd2f964a520396921e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57577639135471,
+          48.136921943607334
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 07:08:20.000000",
+        "venue": {
+          "id": "4ade0ccef964a520246921e3",
+          "name": "Marienplatz",
+          "url": "https://app.foursquare.com/v/marienplatz/4ade0ccef964a520246921e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568457591555093,
+          48.13426140599172
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 05:29:38.000000",
+        "venue": {
+          "id": "5c5ec12c12f0a9002c237b3e",
+          "name": "REWE City",
+          "url": "https://app.foursquare.com/v/rewe-city/5c5ec12c12f0a9002c237b3e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565991265453773,
+          48.134522121335806
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-30 05:11:32.000000",
+        "venue": {
+          "id": "5d25934b9df1dc0023cfb011",
+          "name": "Premier Inn Munich City Zentrum",
+          "url": "https://app.foursquare.com/v/premier-inn-munich-city-zentrum/5d25934b9df1dc0023cfb011"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.580279396311317,
+          48.13760352571561
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 16:23:17.000000",
+        "venue": {
+          "id": "4ade0ca0f964a5202c6821e3",
+          "name": "Hofbräuhaus München (Hofbräuhaus)",
+          "url": "https://app.foursquare.com/v/hofbr%C3%A4uhaus-m%C3%BCnchen/4ade0ca0f964a5202c6821e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588674352520947,
+          48.135047946913765
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 15:32:20.000000",
+        "venue": {
+          "id": "4c71111afa49a1cda6d5a7e3",
+          "name": "Praterinsel",
+          "url": "https://app.foursquare.com/v/praterinsel/4c71111afa49a1cda6d5a7e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581762311852664,
+          48.13495612446109
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 15:01:12.000000",
+        "venue": {
+          "id": "4ade0cc7f964a520006921e3",
+          "name": "Isartor",
+          "url": "https://app.foursquare.com/v/isartor/4ade0cc7f964a520006921e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576547336218368,
+          48.13504492311259
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 14:38:10.000000",
+        "venue": {
+          "id": "4ade0d12f964a5209c6a21e3",
+          "name": "Viktualienmarkt",
+          "url": "https://app.foursquare.com/v/viktualienmarkt/4ade0d12f964a5209c6a21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.575778421958024,
+          48.137098645097154
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 14:06:09.000000",
+        "venue": {
+          "id": "4ade0ccef964a520246921e3",
+          "name": "Marienplatz",
+          "url": "https://app.foursquare.com/v/marienplatz/4ade0ccef964a520246921e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.572610358696522,
+          48.13862508590178
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 13:53:23.000000",
+        "venue": {
+          "id": "4e0b15ded22dbfe2dd790323",
+          "name": "Frauenplatz",
+          "url": "https://app.foursquare.com/v/frauenplatz/4e0b15ded22dbfe2dd790323"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573926129455678,
+          48.138397798674006
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 13:46:44.000000",
+        "venue": {
+          "id": "4ade0ca0f964a5202a6821e3",
+          "name": "Andechser am Dom",
+          "url": "https://app.foursquare.com/v/andechser-am-dom/4ade0ca0f964a5202a6821e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56074870293696,
+          48.141684323118625
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 12:08:28.000000",
+        "venue": {
+          "id": "62948800508bd14c4e5c8077",
+          "name": "Enterprise Rent-A-Car",
+          "url": "https://app.foursquare.com/v/enterprise-rentacar/62948800508bd14c4e5c8077"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.478409308344624,
+          48.11878405454828
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 10:42:52.000000",
+        "venue": {
+          "id": "4dd0beced164679b8d373bf8",
+          "name": "Aral",
+          "url": "https://app.foursquare.com/v/aral/4dd0beced164679b8d373bf8"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.725517444711672,
+          48.03798886594811
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 09:53:47.000000",
+        "venue": {
+          "id": "4f75f29ce4b0149b3e24561f",
+          "name": "Morizz Buchloe",
+          "url": "https://app.foursquare.com/v/morizz-buchloe/4f75f29ce4b0149b3e24561f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.560042076247823,
+          47.58237932941615
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-29 08:31:57.000000",
+        "venue": {
+          "id": "51795a63498e1803be9ef657",
+          "name": "Pfronten",
+          "url": "https://app.foursquare.com/v/pfronten/51795a63498e1803be9ef657"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745414553836751,
+          47.56080367718766
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 17:04:16.000000",
+        "venue": {
+          "id": "4bc1ce31abf49521b076c193",
+          "name": "Neuschwanstein Castle (Schloss Neuschwanstein)",
+          "url": "https://app.foursquare.com/v/schloss-neuschwanstein/4bc1ce31abf49521b076c193"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.746887329069942,
+          47.55564268213224
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 15:17:54.000000",
+        "venue": {
+          "id": "567eef9b498e515872f22b9f",
+          "name": "Hohenschwangau & Alpsee Panoramic View",
+          "url": "https://app.foursquare.com/v/hohenschwangau--alpsee-panoramic-view/567eef9b498e515872f22b9f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.700068316118172,
+          47.568893882590054
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 13:20:27.000000",
+        "venue": {
+          "id": "4d8243032fb73704dc0a8911",
+          "name": "Eiscafé Hohes Schloss",
+          "url": "https://app.foursquare.com/v/eiscaf%C3%A9-hohes-schloss/4d8243032fb73704dc0a8911"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70108157857412,
+          47.568560761071794
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 12:45:26.000000",
+        "venue": {
+          "id": "4e60ab8a45ddda3528c61d0a",
+          "name": "Füssen",
+          "url": "https://app.foursquare.com/v/f%C3%BCssen/4e60ab8a45ddda3528c61d0a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701439600613663,
+          47.56892982557216
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 12:35:47.000000",
+        "venue": {
+          "id": "4cceb2f6ee23a143c06a2da8",
+          "name": "Ristorante La Perla",
+          "url": "https://app.foursquare.com/v/ristorante-la-perla/4cceb2f6ee23a143c06a2da8"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702233521927171,
+          47.569495643350166
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 11:07:37.000000",
+        "venue": {
+          "id": "57a364c8498e86cc39a7f21d",
+          "name": "REWE",
+          "url": "https://app.foursquare.com/v/rewe/57a364c8498e86cc39a7f21d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.700851394452226,
+          47.5653119556309
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 10:32:46.000000",
+        "venue": {
+          "id": "4e60ab8a45ddda3528c61d0a",
+          "name": "Füssen",
+          "url": "https://app.foursquare.com/v/f%C3%BCssen/4e60ab8a45ddda3528c61d0a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.688472087212734,
+          47.5574083282424
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 09:12:44.000000",
+        "venue": {
+          "id": "4e326aff45ddcff0a75458f7",
+          "name": "Walderlebniszentrum Ziegelwies",
+          "url": "https://app.foursquare.com/v/walderlebniszentrum-ziegelwies/4e326aff45ddcff0a75458f7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691314776464951,
+          47.55791245550365
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 08:56:39.000000",
+        "venue": {
+          "id": "50212579e4b0a8e0cac475f3",
+          "name": "Republic of Austria (Republik Österreich)",
+          "url": "https://app.foursquare.com/v/republik-%C3%B6sterreich/50212579e4b0a8e0cac475f3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.571631156011335,
+          47.57095383167977
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-28 07:34:51.000000",
+        "venue": {
+          "id": "51795a63498e1803be9ef657",
+          "name": "Pfronten",
+          "url": "https://app.foursquare.com/v/pfronten/51795a63498e1803be9ef657"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.558875754811757,
+          47.583579382894015
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-27 13:10:43.000000",
+        "venue": {
+          "id": "689dec133d46da61c404686e",
+          "name": "EDEKA",
+          "url": "https://app.foursquare.com/v/edeka/689dec133d46da61c404686e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.560068193730944,
+          47.58367734671012
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-27 11:43:34.000000",
+        "venue": {
+          "id": "4e304d2ed22daa76ed9f16fe",
+          "name": "Braugasthof Falkenstein",
+          "url": "https://app.foursquare.com/v/braugasthof-falkenstein/4e304d2ed22daa76ed9f16fe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5610268892834,
+          47.583433065593375
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-27 11:16:54.000000",
+        "venue": {
+          "id": "4dd7b862d4c05d5096efbf09",
+          "name": "Bahnhof Pfronten-Ried",
+          "url": "https://app.foursquare.com/v/bahnhof-pfrontenried/4dd7b862d4c05d5096efbf09"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.496974137053344,
+          47.61800774136984
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-27 09:10:49.000000",
+        "venue": {
+          "id": "4d19d6756d103704453c4abd",
+          "name": "Alpspitzbahn",
+          "url": "https://app.foursquare.com/v/alpspitzbahn/4d19d6756d103704453c4abd"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.500503971519434,
+          47.6226003945952
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-27 08:41:38.000000",
+        "venue": {
+          "id": "4db425804df05e5aaad9889e",
+          "name": "Nesselwang",
+          "url": "https://app.foursquare.com/v/nesselwang/4db425804df05e5aaad9889e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08651705089381,
+          47.493370212541656
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 15:24:06.000000",
+        "venue": {
+          "id": "503cd8a6e4b081ce9ed3ed73",
+          "name": "Pfarrkirche St. Martin",
+          "url": "https://app.foursquare.com/v/pfarrkirche-st-martin/503cd8a6e4b081ce9ed3ed73"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.085821711155685,
+          47.49338473346188
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 15:15:37.000000",
+        "venue": {
+          "id": "50474e6fe4b00b7e45bf4a45",
+          "name": "Metzgerei Fink",
+          "url": "https://app.foursquare.com/v/metzgerei-fink/50474e6fe4b00b7e45bf4a45"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.296913374802365,
+          47.428931954362426
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 13:13:09.000000",
+        "venue": {
+          "id": "500a8c00e4b06a8f7c6a5fa2",
+          "name": "Karwendelbahn | Bergstation",
+          "url": "https://app.foursquare.com/v/karwendelbahn--bergstation/500a8c00e4b06a8f7c6a5fa2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.295160465986838,
+          47.429300223520315
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 12:59:45.000000",
+        "venue": {
+          "id": "538aedd4498e1afc163e310a",
+          "name": "Karwendelspitze",
+          "url": "https://app.foursquare.com/v/karwendelspitze/538aedd4498e1afc163e310a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.295550491355778,
+          47.43028871448405
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 12:07:08.000000",
+        "venue": {
+          "id": "500a8c00e4b06a8f7c6a5fa2",
+          "name": "Karwendelbahn | Bergstation",
+          "url": "https://app.foursquare.com/v/karwendelbahn--bergstation/500a8c00e4b06a8f7c6a5fa2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29887806704562,
+          47.43003022339779
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 11:32:08.000000",
+        "venue": {
+          "id": "538aedd4498e1afc163e310a",
+          "name": "Karwendelspitze",
+          "url": "https://app.foursquare.com/v/karwendelspitze/538aedd4498e1afc163e310a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.270007636936505,
+          47.43810969730535
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 09:10:03.000000",
+        "venue": {
+          "id": "4e4389c2aeb7d02fd0dfe888",
+          "name": "Karwendelbahn",
+          "url": "https://app.foursquare.com/v/karwendelbahn/4e4389c2aeb7d02fd0dfe888"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.100620994247704,
+          47.49217700473247
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-26 08:28:03.000000",
+        "venue": {
+          "id": "4b516800f964a520a84c27e3",
+          "name": "Garmisch-Partenkirchen",
+          "url": "https://app.foursquare.com/v/garmischpartenkirchen/4b516800f964a520a84c27e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.892630288212516,
+          48.05384239998879
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 17:28:24.000000",
+        "venue": {
+          "id": "5028ea09e4b0fe423e62fb41",
+          "name": "ALDI SÜD",
+          "url": "https://app.foursquare.com/v/aldi-s%C3%BCd/5028ea09e4b0fe423e62fb41"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.559998876465745,
+          48.141347745098194
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 15:14:30.000000",
+        "venue": {
+          "id": "62948800508bd14c4e5c8077",
+          "name": "Enterprise Rent-A-Car",
+          "url": "https://app.foursquare.com/v/enterprise-rentacar/62948800508bd14c4e5c8077"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558298658145016,
+          48.140562285259655
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 14:56:15.000000",
+        "venue": {
+          "id": "4b0674e2f964a520f4eb22e3",
+          "name": "München Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/m%C3%BCnchen-hauptbahnhof/4b0674e2f964a520f4eb22e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.084084746376227,
+          49.44576268161593
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 13:35:15.000000",
+        "venue": {
+          "id": "4b156019f964a520daab23e3",
+          "name": "Nürnberg Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/n%C3%BCrnberg-hauptbahnhof/4b156019f964a520daab23e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93791889676689,
+          49.80180731142986
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 12:23:14.000000",
+        "venue": {
+          "id": "4b0e90c5f964a520845823e3",
+          "name": "Würzburg Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/w%C3%BCrzburg-hauptbahnhof/4b0e90c5f964a520845823e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.036312309088313,
+          50.97187144506638
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 10:31:53.000000",
+        "venue": {
+          "id": "4dd6b5a77d8b322663dde008",
+          "name": "Erfurt Info",
+          "url": "https://app.foursquare.com/v/erfurt-info/4dd6b5a77d8b322663dde008"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.383460294378057,
+          51.347330869510365
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 09:47:02.000000",
+        "venue": {
+          "id": "4b27438af964a520878524e3",
+          "name": "Leipzig Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/leipzig-hauptbahnhof/4b27438af964a520878524e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.661575151886446,
+          51.868180088588
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 09:14:25.000000",
+        "venue": {
+          "id": "4d81a9f62ad9a1436b937728",
+          "name": "Bahnhof Lutherstadt Wittenberg",
+          "url": "https://app.foursquare.com/v/bahnhof-lutherstadt-wittenberg/4d81a9f62ad9a1436b937728"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368973982506912,
+          52.52566738560857
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 08:01:41.000000",
+        "venue": {
+          "id": "4dd6f909cc3f75159f1cd1c3",
+          "name": "Motel One Berlin-Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/motel-one-berlinhauptbahnhof/4dd6f909cc3f75159f1cd1c3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372831735979538,
+          52.52740995402161
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 07:06:08.000000",
+        "venue": {
+          "id": "5d9e86707df98400083a1bc3",
+          "name": "EDEKA Berlin Invalidenstraße",
+          "url": "https://app.foursquare.com/v/edeka-berlin-invalidenstra%C3%9Fe/5d9e86707df98400083a1bc3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408946205756394,
+          52.52798506702592
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 06:27:21.000000",
+        "venue": {
+          "id": "4f7d9f5be4b09d309a10e8c0",
+          "name": "Zeit für Brot",
+          "url": "https://app.foursquare.com/v/zeit-f%C3%BCr-brot/4f7d9f5be4b09d309a10e8c0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366045962017195,
+          52.525536592208596
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-25 04:34:39.000000",
+        "venue": {
+          "id": "4dd6f909cc3f75159f1cd1c3",
+          "name": "Motel One Berlin-Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/motel-one-berlinhauptbahnhof/4dd6f909cc3f75159f1cd1c3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37858192259705,
+          52.51616315616299
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 18:00:54.000000",
+        "venue": {
+          "id": "4adcda7cf964a520524721e3",
+          "name": "Brandenburg Gate (Brandenburger Tor)",
+          "url": "https://app.foursquare.com/v/brandenburger-tor/4adcda7cf964a520524721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.370183415475372,
+          52.51371205908569
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 17:47:22.000000",
+        "venue": {
+          "id": "4eb402ec8b81a81f8fe97d66",
+          "name": "Beethoven-Haydn-Mozart-Denkmal",
+          "url": "https://app.foursquare.com/v/beethovenhaydnmozartdenkmal/4eb402ec8b81a81f8fe97d66"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3696862040779,
+          52.51382215876829
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 17:42:28.000000",
+        "venue": {
+          "id": "4f9ff8f4e4b03a4a3f7ebe92",
+          "name": "Floraplatz",
+          "url": "https://app.foursquare.com/v/floraplatz/4f9ff8f4e4b03a4a3f7ebe92"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.371825344424106,
+          52.51611160546844
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 17:31:10.000000",
+        "venue": {
+          "id": "4adcda7ef964a520b84721e3",
+          "name": "Soviet War Memorial Tiergarten (Sowjetisches Ehrenmal Tiergarten)",
+          "url": "https://app.foursquare.com/v/sowjetisches-ehrenmal-tiergarten/4adcda7ef964a520b84721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403145915793512,
+          52.540838777655054
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 13:23:29.000000",
+        "venue": {
+          "id": "4adcda7ff964a520f84721e3",
+          "name": "Mauerpark",
+          "url": "https://app.foursquare.com/v/mauerpark/4adcda7ff964a520f84721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369350506676405,
+          52.52634023346246
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 11:44:04.000000",
+        "venue": {
+          "id": "4d5054c6c5ff6ea83a7b9907",
+          "name": "H S+U Hauptbahnhof",
+          "url": "https://app.foursquare.com/v/h-su-hauptbahnhof/4d5054c6c5ff6ea83a7b9907"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64008838782935,
+          52.137877309646335
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-24 08:13:51.000000",
+        "venue": {
+          "id": "57c9412e498e310e8ad2ecb2",
+          "name": "Paulinen Hof Seminarhotel",
+          "url": "https://app.foursquare.com/v/paulinen-hof-seminarhotel/57c9412e498e310e8ad2ecb2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.639962922085164,
+          52.13822786223457
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-23 09:14:54.000000",
+        "venue": {
+          "id": "68a9867deb3b06382d0041cb",
+          "name": "Dorfkirche Lüsse",
+          "url": "https://app.foursquare.com/v/dorfkirche-l%C3%BCsse/68a9867deb3b06382d0041cb"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.639952292938807,
+          52.13796579951672
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-23 08:03:22.000000",
+        "venue": {
+          "id": "57c9412e498e310e8ad2ecb2",
+          "name": "Paulinen Hof Seminarhotel",
+          "url": "https://app.foursquare.com/v/paulinen-hof-seminarhotel/57c9412e498e310e8ad2ecb2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.639911176691843,
+          52.13829139325663
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-23 07:38:35.000000",
+        "venue": {
+          "id": "57c9412e498e310e8ad2ecb2",
+          "name": "Paulinen Hof Seminarhotel",
+          "url": "https://app.foursquare.com/v/paulinen-hof-seminarhotel/57c9412e498e310e8ad2ecb2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.639768509119287,
+          52.138270045718414
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 14:41:44.000000",
+        "venue": {
+          "id": "57c9412e498e310e8ad2ecb2",
+          "name": "Paulinen Hof Seminarhotel",
+          "url": "https://app.foursquare.com/v/paulinen-hof-seminarhotel/57c9412e498e310e8ad2ecb2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368626342432549,
+          52.5250071419818
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 10:46:01.000000",
+        "venue": {
+          "id": "4a1c8506f964a520457b1fe3",
+          "name": "Berlin Central Station (Berlin Hauptbahnhof)",
+          "url": "https://app.foursquare.com/v/berlin-hauptbahnhof/4a1c8506f964a520457b1fe3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41106721006274,
+          52.5222505937854
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 10:37:34.000000",
+        "venue": {
+          "id": "4a1cc8d1f964a520617b1fe3",
+          "name": "Bahnhof Berlin Alexanderplatz",
+          "url": "https://app.foursquare.com/v/bahnhof-berlin-alexanderplatz/4a1cc8d1f964a520617b1fe3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40223704412979,
+          52.51929400725801
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 10:03:49.000000",
+        "venue": {
+          "id": "4ae9c897f964a52062b621e3",
+          "name": "DDR Museum",
+          "url": "https://app.foursquare.com/v/ddr-museum/4ae9c897f964a52062b621e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407664784218282,
+          52.52280140435333
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 07:15:17.000000",
+        "venue": {
+          "id": "5b55e0a9acb00b0039fb45e3",
+          "name": "19grams",
+          "url": "https://app.foursquare.com/v/19grams/5b55e0a9acb00b0039fb45e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407664784218282,
+          52.52280140435333
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 07:15:03.000000",
+        "venue": {
+          "id": "597b119e01559a6259cb0587",
+          "name": "Kaufland",
+          "url": "https://app.foursquare.com/v/kaufland/597b119e01559a6259cb0587"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41143639981576,
+          52.52002799602966
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-22 06:20:38.000000",
+        "venue": {
+          "id": "54aa71d0498e077a285b5eed",
+          "name": "Motel One Berlin-Alexanderplatz",
+          "url": "https://app.foursquare.com/v/motel-one-berlinalexanderplatz/54aa71d0498e077a285b5eed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40213341359564,
+          52.52416994728296
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 18:37:43.000000",
+        "venue": {
+          "id": "5c8e62048d0a53002cdea98c",
+          "name": "CANAL",
+          "url": "https://app.foursquare.com/v/canal/5c8e62048d0a53002cdea98c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407023358779595,
+          52.516770101202695
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 18:13:19.000000",
+        "venue": {
+          "id": "4fb51c29e4b0719cde34a216",
+          "name": "Nikolaikirchplatz",
+          "url": "https://app.foursquare.com/v/nikolaikirchplatz/4fb51c29e4b0719cde34a216"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405465073422196,
+          52.51632358866007
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 17:19:08.000000",
+        "venue": {
+          "id": "4ba00d3df964a520d65537e3",
+          "name": "Brauhaus GeorgBraeu",
+          "url": "https://app.foursquare.com/v/brauhaus-georgbraeu/4ba00d3df964a520d65537e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414485249416845,
+          52.52150161550787
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 14:23:58.000000",
+        "venue": {
+          "id": "4d1b58c19aa55481d360cde0",
+          "name": "Saturn",
+          "url": "https://app.foursquare.com/v/saturn/4d1b58c19aa55481d360cde0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411964259261701,
+          52.52163278137002
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 14:19:29.000000",
+        "venue": {
+          "id": "5038b684e4b09fce66be82e5",
+          "name": "H S+U Alexanderplatz / Gontardstraße",
+          "url": "https://app.foursquare.com/v/h-su-alexanderplatz--gontardstra%C3%9Fe/5038b684e4b09fce66be82e5"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340711900995295,
+          52.518559767461625
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 14:08:32.000000",
+        "venue": {
+          "id": "5802198ad67c8ac5ed3fff13",
+          "name": "H S Tiergarten",
+          "url": "https://app.foursquare.com/v/h-s-tiergarten/5802198ad67c8ac5ed3fff13"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.344240280526831,
+          52.514014025854536
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 13:56:28.000000",
+        "venue": {
+          "id": "5314bf31e4b0d805d379997f",
+          "name": "Tiergarten",
+          "url": "https://app.foursquare.com/v/tiergarten/5314bf31e4b0d805d379997f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348534046236784,
+          52.51413194081097
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 13:50:25.000000",
+        "venue": {
+          "id": "4a1d02fbf964a520667b1fe3",
+          "name": "Victory Column (Siegessäule)",
+          "url": "https://app.foursquare.com/v/siegess%C3%A4ule/4a1d02fbf964a520667b1fe3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342449131847502,
+          52.51730020019889
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 12:42:21.000000",
+        "venue": {
+          "id": "4c4327196c1a9521f1ffb96a",
+          "name": "U Hansaplatz",
+          "url": "https://app.foursquare.com/v/u-hansaplatz/4c4327196c1a9521f1ffb96a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390564296868652,
+          52.50670414804324
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 12:20:44.000000",
+        "venue": {
+          "id": "4ebc53cacc21ae646a560694",
+          "name": "H U Kochstraße / Checkpoint Charlie",
+          "url": "https://app.foursquare.com/v/h-u-kochstra%C3%9Fe--checkpoint-charlie/4ebc53cacc21ae646a560694"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394565994937071,
+          52.50695992067956
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 12:02:09.000000",
+        "venue": {
+          "id": "4cf39fb83e996a31b128ea8f",
+          "name": "Café Bäckerei Bonjour",
+          "url": "https://app.foursquare.com/v/caf%C3%A9-b%C3%A4ckerei-bonjour/4cf39fb83e996a31b128ea8f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392651078528976,
+          52.513634210718386
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 11:34:41.000000",
+        "venue": {
+          "id": "4adcda7cf964a520584721e3",
+          "name": "Konzerthaus Berlin",
+          "url": "https://app.foursquare.com/v/konzerthaus-berlin/4adcda7cf964a520584721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392541304279503,
+          52.51391731231727
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 11:23:08.000000",
+        "venue": {
+          "id": "4adcda7df964a5206a4721e3",
+          "name": "Gendarmenmarkt",
+          "url": "https://app.foursquare.com/v/gendarmenmarkt/4adcda7df964a5206a4721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391113884618878,
+          52.51396474532721
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 10:57:43.000000",
+        "venue": {
+          "id": "4be303d0d27a20a116ff905b",
+          "name": "Augustiner am Gendarmenmarkt",
+          "url": "https://app.foursquare.com/v/augustiner-am-gendarmenmarkt/4be303d0d27a20a116ff905b"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379677099184068,
+          52.51383114212888
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 09:59:47.000000",
+        "venue": {
+          "id": "4b10f428f964a520f77623e3",
+          "name": "Memorial to the Murdered Jews of Europe (Denkmal für die ermordeten Juden Europas)",
+          "url": "https://app.foursquare.com/v/denkmal-f%C3%BCr-die-ermordeten-juden-europas/4b10f428f964a520f77623e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378490562293745,
+          52.51626911206668
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 09:49:29.000000",
+        "venue": {
+          "id": "4adcda7cf964a520524721e3",
+          "name": "Brandenburg Gate (Brandenburger Tor)",
+          "url": "https://app.foursquare.com/v/brandenburger-tor/4adcda7cf964a520524721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376041296135428,
+          52.518613473258554
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 08:43:46.000000",
+        "venue": {
+          "id": "4c99d25c292a6dcb0c45c976",
+          "name": "Reichstag Dome (Reichstagskuppel)",
+          "url": "https://app.foursquare.com/v/reichstagskuppel/4c99d25c292a6dcb0c45c976"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376900893035124,
+          52.52060444155567
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 07:38:46.000000",
+        "venue": {
+          "id": "4e392eae1850faa59d6ead25",
+          "name": "Jakob-Mierscheid-Steg",
+          "url": "https://app.foursquare.com/v/jakobmierscheidsteg/4e392eae1850faa59d6ead25"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387991166569082,
+          52.52033813458135
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 06:13:25.000000",
+        "venue": {
+          "id": "5d9465083119c00008dc75d2",
+          "name": "Café Haferkater",
+          "url": "https://app.foursquare.com/v/caf%C3%A9-haferkater/5d9465083119c00008dc75d2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387991166569082,
+          52.52033813458135
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 06:13:15.000000",
+        "venue": {
+          "id": "51d569e4498eece3ebd105d7",
+          "name": "U Friedrichstraße",
+          "url": "https://app.foursquare.com/v/u-friedrichstra%C3%9Fe/51d569e4498eece3ebd105d7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411816891835018,
+          52.520599485157106
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 05:59:55.000000",
+        "venue": {
+          "id": "5038b684e4b09fce66be82e5",
+          "name": "H S+U Alexanderplatz / Gontardstraße",
+          "url": "https://app.foursquare.com/v/h-su-alexanderplatz--gontardstra%C3%9Fe/5038b684e4b09fce66be82e5"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411598846688888,
+          52.52029572359983
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-21 05:59:20.000000",
+        "venue": {
+          "id": "54aa71d0498e077a285b5eed",
+          "name": "Motel One Berlin-Alexanderplatz",
+          "url": "https://app.foursquare.com/v/motel-one-berlinalexanderplatz/54aa71d0498e077a285b5eed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4115896104952,
+          52.52058321975936
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 17:44:09.000000",
+        "venue": {
+          "id": "5038b684e4b09fce66be82e5",
+          "name": "H S+U Alexanderplatz / Gontardstraße",
+          "url": "https://app.foursquare.com/v/h-su-alexanderplatz--gontardstra%C3%9Fe/5038b684e4b09fce66be82e5"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391282760031567,
+          52.51225352675552
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 17:29:02.000000",
+        "venue": {
+          "id": "4e399ca7ae60f589a5dd3578",
+          "name": "H U Stadtmitte",
+          "url": "https://app.foursquare.com/v/h-u-stadtmitte/4e399ca7ae60f589a5dd3578"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392188293283388,
+          52.50880305006539
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 17:22:41.000000",
+        "venue": {
+          "id": "66b9e83a72d91613f493a782",
+          "name": "Bistro Medina",
+          "url": "https://app.foursquare.com/v/bistro-medina/66b9e83a72d91613f493a782"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388648965160368,
+          52.516751395640604
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 16:17:29.000000",
+        "venue": {
+          "id": "50641751b0ed1dcc8e57c9f2",
+          "name": "AMPELMANN Flagship Store",
+          "url": "https://app.foursquare.com/v/ampelmann-flagship-store/50641751b0ed1dcc8e57c9f2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383132577989194,
+          52.5167966008793
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 15:45:50.000000",
+        "venue": {
+          "id": "53aea504498e09297471405d",
+          "name": "H S+U Brandenburger Tor",
+          "url": "https://app.foursquare.com/v/h-su-brandenburger-tor/53aea504498e09297471405d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38444455362207,
+          52.547238573296305
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 14:41:46.000000",
+        "venue": {
+          "id": "4b052930f964a520485722e3",
+          "name": "Flakturm Humboldthain",
+          "url": "https://app.foursquare.com/v/flakturm-humboldthain/4b052930f964a520485722e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389072196683573,
+          52.547773414605324
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 12:54:51.000000",
+        "venue": {
+          "id": "4de0c505fa76425c54210061",
+          "name": "Berliner Unterwelten Tour 1",
+          "url": "https://app.foursquare.com/v/berliner-unterwelten-tour-1/4de0c505fa76425c54210061"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389072196683573,
+          52.547773414605324
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 12:54:45.000000",
+        "venue": {
+          "id": "528a901711d224c0ed746ef0",
+          "name": "U Gesundbrunnen",
+          "url": "https://app.foursquare.com/v/u-gesundbrunnen/528a901711d224c0ed746ef0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386149741813465,
+          52.54431547987323
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 12:33:52.000000",
+        "venue": {
+          "id": "4bcd798fcc8cd13a6e97c2cf",
+          "name": "Volkspark Humboldthain",
+          "url": "https://app.foursquare.com/v/volkspark-humboldthain/4bcd798fcc8cd13a6e97c2cf"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38553400945775,
+          52.53490549160331
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 12:12:46.000000",
+        "venue": {
+          "id": "4bc2ea8eabf49521c60bc393",
+          "name": "Park am Nordbahnhof",
+          "url": "https://app.foursquare.com/v/park-am-nordbahnhof/4bc2ea8eabf49521c60bc393"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389815519742678,
+          52.535416161689575
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 11:13:56.000000",
+        "venue": {
+          "id": "4bd975242e6f0f4708960a08",
+          "name": "Berlin Wall Memorial (Gedenkstätte Berliner Mauer)",
+          "url": "https://app.foursquare.com/v/gedenkst%C3%A4tte-berliner-mauer/4bd975242e6f0f4708960a08"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388026624560409,
+          52.53322917582495
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 10:23:00.000000",
+        "venue": {
+          "id": "4b03f3cef964a520a65022e3",
+          "name": "S Nordbahnhof",
+          "url": "https://app.foursquare.com/v/s-nordbahnhof/4b03f3cef964a520a65022e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38327431133729,
+          52.504710309793
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 10:02:43.000000",
+        "venue": {
+          "id": "4b1a8608f964a5209deb23e3",
+          "name": "S Anhalter Bahnhof",
+          "url": "https://app.foursquare.com/v/s-anhalter-bahnhof/4b1a8608f964a5209deb23e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.382875282961654,
+          52.507089389074935
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 07:56:54.000000",
+        "venue": {
+          "id": "4adcda83f964a520944821e3",
+          "name": "Topography of Terror (Topographie des Terrors)",
+          "url": "https://app.foursquare.com/v/topographie-des-terrors/4adcda83f964a520944821e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.381892654304306,
+          52.50376080317149
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 07:35:17.000000",
+        "venue": {
+          "id": "4fcdd1fbe4b01ca7e3bfbd5d",
+          "name": "Anhalter Bahnhof",
+          "url": "https://app.foursquare.com/v/anhalter-bahnhof/4fcdd1fbe4b01ca7e3bfbd5d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383063174047914,
+          52.51099734875506
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 06:53:01.000000",
+        "venue": {
+          "id": "5131f37c8055b62e098f83c7",
+          "name": "Mall of Berlin",
+          "url": "https://app.foursquare.com/v/mall-of-berlin/5131f37c8055b62e098f83c7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410235376441129,
+          52.5283141044221
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 06:36:47.000000",
+        "venue": {
+          "id": "4b1c2e29f964a520b20324e3",
+          "name": "U Rosa-Luxemburg-Platz",
+          "url": "https://app.foursquare.com/v/u-rosaluxemburgplatz/4b1c2e29f964a520b20324e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408891724390394,
+          52.52801255759783
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 06:01:53.000000",
+        "venue": {
+          "id": "4f7d9f5be4b09d309a10e8c0",
+          "name": "Zeit für Brot",
+          "url": "https://app.foursquare.com/v/zeit-f%C3%BCr-brot/4f7d9f5be4b09d309a10e8c0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412297233084354,
+          52.51979627093002
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-20 05:33:32.000000",
+        "venue": {
+          "id": "54aa71d0498e077a285b5eed",
+          "name": "Motel One Berlin-Alexanderplatz",
+          "url": "https://app.foursquare.com/v/motel-one-berlinalexanderplatz/54aa71d0498e077a285b5eed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403049651556664,
+          52.524096356221065
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 17:54:36.000000",
+        "venue": {
+          "id": "4c51fd25048b1b8de305d52f",
+          "name": "Haus Schwarzenberg",
+          "url": "https://app.foursquare.com/v/haus-schwarzenberg/4c51fd25048b1b8de305d52f"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401119085186172,
+          52.522727151291676
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 17:06:42.000000",
+        "venue": {
+          "id": "56f3f998498e7e44e270af0a",
+          "name": "Mustafa Demirs Gemüse Kebap",
+          "url": "https://app.foursquare.com/v/mustafa-demirs-gem%C3%BCse-kebap/56f3f998498e7e44e270af0a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40199342857498,
+          52.52244621313892
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 17:01:03.000000",
+        "venue": {
+          "id": "4af5421ef964a520acf821e3",
+          "name": "S Hackescher Markt",
+          "url": "https://app.foursquare.com/v/s-hackescher-markt/4af5421ef964a520acf821e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449086711153274,
+          52.50558757797436
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 16:43:29.000000",
+        "venue": {
+          "id": "5224df8bbce6f4ef2424346d",
+          "name": "H S+U Warschauer Straße",
+          "url": "https://app.foursquare.com/v/h-su-warschauer-stra%C3%9Fe/5224df8bbce6f4ef2424346d"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.436479843709607,
+          52.506682170641234
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 16:04:26.000000",
+        "venue": {
+          "id": "4bdc2b632a3a0f47fcb2b1b6",
+          "name": "East Side Gallery",
+          "url": "https://app.foursquare.com/v/east-side-gallery/4bdc2b632a3a0f47fcb2b1b6"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434856473587855,
+          52.51088971415788
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 15:47:32.000000",
+        "venue": {
+          "id": "4adcda91f964a520bc4b21e3",
+          "name": "Berlin Ostbahnhof",
+          "url": "https://app.foursquare.com/v/berlin-ostbahnhof/4adcda91f964a520bc4b21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.519598709902182,
+          52.51418479337999
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 15:29:19.000000",
+        "venue": {
+          "id": "508f1de1e4b0d3ece74fd34a",
+          "name": "H S Friedrichsfelde Ost",
+          "url": "https://app.foursquare.com/v/h-s-friedrichsfelde-ost/508f1de1e4b0d3ece74fd34a"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.514709981660511,
+          52.539299270376254
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 15:19:21.000000",
+        "venue": {
+          "id": "4f523900e4b02cf6bd89567c",
+          "name": "H Rhinstraße / Plauener Straße",
+          "url": "https://app.foursquare.com/v/h-rhinstra%C3%9Fe--plauener-stra%C3%9Fe/4f523900e4b02cf6bd89567c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500494470475383,
+          52.54209955078105
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 12:25:43.000000",
+        "venue": {
+          "id": "4bdae1af2a3a0f47d25cacb6",
+          "name": "Berlin-Hohenschönhausen Memorial (Gedenkstätte Berlin-Hohenschönhausen)",
+          "url": "https://app.foursquare.com/v/berlinhohensch%C3%B6nhausen-memorial/4bdae1af2a3a0f47d25cacb6"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.496821405555298,
+          52.53492570378165
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 12:05:16.000000",
+        "venue": {
+          "id": "50b0ea72e4b00d9396935238",
+          "name": "ALDI NORD",
+          "url": "https://app.foursquare.com/v/aldi-nord/50b0ea72e4b00d9396935238"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.496844176846635,
+          52.5349867447089
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 11:50:51.000000",
+        "venue": {
+          "id": "52a6b89511d24aceb8dd6a03",
+          "name": "Parkhaus Allee-Center",
+          "url": "https://app.foursquare.com/v/parkhaus-alleecenter/52a6b89511d24aceb8dd6a03"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47502098139318,
+          52.513744347765716
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 11:23:35.000000",
+        "venue": {
+          "id": "4afe1077f964a520a22d22e3",
+          "name": "S+U Frankfurter Allee",
+          "url": "https://app.foursquare.com/v/su-frankfurter-allee/4afe1077f964a520a22d22e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380213928241018,
+          52.51650075886879
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 10:59:39.000000",
+        "venue": {
+          "id": "4b0abbecf964a520102723e3",
+          "name": "S+U Brandenburger Tor",
+          "url": "https://app.foursquare.com/v/su-brandenburger-tor/4b0abbecf964a520102723e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377785735554978,
+          52.51624929175356
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 10:39:23.000000",
+        "venue": {
+          "id": "4adcda7cf964a520524721e3",
+          "name": "Brandenburg Gate (Brandenburger Tor)",
+          "url": "https://app.foursquare.com/v/brandenburger-tor/4adcda7cf964a520524721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377999057081974,
+          52.51444283790129
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 10:25:53.000000",
+        "venue": {
+          "id": "4b10f428f964a520f77623e3",
+          "name": "Memorial to the Murdered Jews of Europe (Denkmal für die ermordeten Juden Europas)",
+          "url": "https://app.foursquare.com/v/denkmal-f%C3%BCr-die-ermordeten-juden-europas/4b10f428f964a520f77623e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380922084323855,
+          52.51246306906989
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 10:09:19.000000",
+        "venue": {
+          "id": "4dea14bfd4c00071b818c15b",
+          "name": "Führerbunker",
+          "url": "https://app.foursquare.com/v/f%C3%BChrerbunker/4dea14bfd4c00071b818c15b"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383881547663457,
+          52.50870253025967
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 10:01:08.000000",
+        "venue": {
+          "id": "4b7cfddbf964a5204cab2fe3",
+          "name": "Federal Ministry of Finance (Bundesministerium der Finanzen)",
+          "url": "https://app.foursquare.com/v/bundesministerium-der-finanzen/4b7cfddbf964a5204cab2fe3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384988795265302,
+          52.50880332689679
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 09:54:02.000000",
+        "venue": {
+          "id": "4b7cfddbf964a5204cab2fe3",
+          "name": "Federal Ministry of Finance (Bundesministerium der Finanzen)",
+          "url": "https://app.foursquare.com/v/bundesministerium-der-finanzen/4b7cfddbf964a5204cab2fe3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390521532482648,
+          52.50755224109108
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 09:23:56.000000",
+        "venue": {
+          "id": "4adcda7ef964a520e04721e3",
+          "name": "Checkpoint Charlie",
+          "url": "https://app.foursquare.com/v/checkpoint-charlie/4adcda7ef964a520e04721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39255757057677,
+          52.51361314090932
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 09:10:26.000000",
+        "venue": {
+          "id": "4adcda7df964a5206a4721e3",
+          "name": "Gendarmenmarkt",
+          "url": "https://app.foursquare.com/v/gendarmenmarkt/4adcda7df964a5206a4721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393795511913869,
+          52.51629233119108
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 09:01:54.000000",
+        "venue": {
+          "id": "4adcda7df964a520ab4721e3",
+          "name": "Bebelplatz",
+          "url": "https://app.foursquare.com/v/bebelplatz/4adcda7df964a520ab4721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399262281419643,
+          52.51816702281663
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 08:31:53.000000",
+        "venue": {
+          "id": "4adcda7cf964a5205f4721e3",
+          "name": "Lustgarten",
+          "url": "https://app.foursquare.com/v/lustgarten/4adcda7cf964a5205f4721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387463183166112,
+          52.52075418009328
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 07:59:54.000000",
+        "venue": {
+          "id": "4cc9350ed147a09328aee5ae",
+          "name": "Palace of Tears (Tränenpalast)",
+          "url": "https://app.foursquare.com/v/tr%C3%A4nenpalast/4cc9350ed147a09328aee5ae"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387463183166112,
+          52.52075418009328
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 07:59:37.000000",
+        "venue": {
+          "id": "5d9465083119c00008dc75d2",
+          "name": "Café Haferkater",
+          "url": "https://app.foursquare.com/v/caf%C3%A9-haferkater/5d9465083119c00008dc75d2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401972667742474,
+          52.51728768588146
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 06:48:04.000000",
+        "venue": {
+          "id": "617d145f2cbfff47a89bdb0c",
+          "name": "Dachterasse Humboldt Forum",
+          "url": "https://app.foursquare.com/v/dachterasse-humboldt-forum/617d145f2cbfff47a89bdb0c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412096699025195,
+          52.51926771959683
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-19 06:32:36.000000",
+        "venue": {
+          "id": "54aa71d0498e077a285b5eed",
+          "name": "Motel One Berlin-Alexanderplatz",
+          "url": "https://app.foursquare.com/v/motel-one-berlinalexanderplatz/54aa71d0498e077a285b5eed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407352494963062,
+          52.522842653362176
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 17:04:47.000000",
+        "venue": {
+          "id": "62b8d84d6422e8193b1bb3d2",
+          "name": "Ali Baba Bistro",
+          "url": "https://app.foursquare.com/v/ali-baba-bistro/62b8d84d6422e8193b1bb3d2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40717396157106,
+          52.51908124632177
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 15:51:47.000000",
+        "venue": {
+          "id": "4adcda7df964a5207c4721e3",
+          "name": "Red City Hall (Rotes Rathaus)",
+          "url": "https://app.foursquare.com/v/rotes-rathaus/4adcda7df964a5207c4721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406673626055596,
+          52.52051792442702
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 15:43:01.000000",
+        "venue": {
+          "id": "4adcda7ef964a520c54721e3",
+          "name": "Marienkirche",
+          "url": "https://app.foursquare.com/v/marienkirche/4adcda7ef964a520c54721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402648427043303,
+          52.52369694678293
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 15:32:47.000000",
+        "venue": {
+          "id": "4b5e904cf964a520a89229e3",
+          "name": "Die Hackeschen Höfe",
+          "url": "https://app.foursquare.com/v/die-hackeschen-h%C3%B6fe/4b5e904cf964a520a89229e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402071229671677,
+          52.524166492675604
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 14:52:20.000000",
+        "venue": {
+          "id": "5c8e62048d0a53002cdea98c",
+          "name": "CANAL",
+          "url": "https://app.foursquare.com/v/canal/5c8e62048d0a53002cdea98c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.373385198273015,
+          52.50996644921022
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 11:44:56.000000",
+        "venue": {
+          "id": "4adcda91f964a520894b21e3",
+          "name": "Das Center am Potsdamer Platz",
+          "url": "https://app.foursquare.com/v/das-center-am-potsdamer-platz/4adcda91f964a520894b21e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378895526687874,
+          52.5139315191232
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 11:06:39.000000",
+        "venue": {
+          "id": "4adcda7cf964a520524721e3",
+          "name": "Brandenburg Gate (Brandenburger Tor)",
+          "url": "https://app.foursquare.com/v/brandenburger-tor/4adcda7cf964a520524721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378895526687874,
+          52.5139315191232
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 11:04:33.000000",
+        "venue": {
+          "id": "4b10f428f964a520f77623e3",
+          "name": "Memorial to the Murdered Jews of Europe (Denkmal für die ermordeten Juden Europas)",
+          "url": "https://app.foursquare.com/v/denkmal-f%C3%BCr-die-ermordeten-juden-europas/4b10f428f964a520f77623e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37419797890399,
+          52.518061394929376
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 10:39:24.000000",
+        "venue": {
+          "id": "4c3d67da7c1ee21eb6ea8d71",
+          "name": "Deutscher Bundestag",
+          "url": "https://app.foursquare.com/v/deutscher-bundestag/4c3d67da7c1ee21eb6ea8d71"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385277081219385,
+          52.51959985544453
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 10:03:03.000000",
+        "venue": {
+          "id": "6246c9f230ec3d100ce942eb",
+          "name": "Aldi Nord Checkpoint",
+          "url": "https://app.foursquare.com/v/aldi-nord-checkpoint/6246c9f230ec3d100ce942eb"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385277081219385,
+          52.51959985544453
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 10:02:48.000000",
+        "venue": {
+          "id": "4d2c7f80068e8cfa3defec4c",
+          "name": "Flamingo Fresh Food Bar",
+          "url": "https://app.foursquare.com/v/flamingo-fresh-food-bar/4d2c7f80068e8cfa3defec4c"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391576674385764,
+          52.51783095581628
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 09:29:12.000000",
+        "venue": {
+          "id": "4b5432bdf964a52065b427e3",
+          "name": "Staatsbibliothek zu Berlin - Haus unter den Linden",
+          "url": "https://app.foursquare.com/v/staatsbibliothek-zu-berlin--haus-unter-den-linden/4b5432bdf964a52065b427e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399225699605308,
+          52.518261398247596
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 09:11:47.000000",
+        "venue": {
+          "id": "4adcda7cf964a5205f4721e3",
+          "name": "Lustgarten",
+          "url": "https://app.foursquare.com/v/lustgarten/4adcda7cf964a5205f4721e3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407479504919646,
+          52.51960831903093
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 08:19:03.000000",
+        "venue": {
+          "id": "54aa71d0498e077a285b5eed",
+          "name": "Motel One Berlin-Alexanderplatz",
+          "url": "https://app.foursquare.com/v/motel-one-berlinalexanderplatz/54aa71d0498e077a285b5eed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412381540038465,
+          52.52131421009458
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 06:45:14.000000",
+        "venue": {
+          "id": "4faba39fe4b0d040d882ae7e",
+          "name": "U Alexanderplatz",
+          "url": "https://app.foursquare.com/v/u-alexanderplatz/4faba39fe4b0d040d882ae7e"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509394952178827,
+          52.36432502803796
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 06:15:48.000000",
+        "venue": {
+          "id": "5232c80811d26f869ea89e14",
+          "name": "Bahnhof Flughafen Berlin Brandenburg",
+          "url": "https://app.foursquare.com/v/bahnhof-flughafen-berlin-brandenburg/5232c80811d26f869ea89e14"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509391009689114,
+          52.363346129807354
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-18 05:47:16.000000",
+        "venue": {
+          "id": "4f0729b4e4b03321184dd5e2",
+          "name": "Berlin Brandenburg Willy Brandt Airport (BER) (Flughafen Berlin Brandenburg Willy Brandt)",
+          "url": "https://app.foursquare.com/v/berlin-brandenburg-airport-willy-brandt-ber/4f0729b4e4b03321184dd5e2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.61454680091957,
+          25.271294321112794
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-17 19:44:22.000000",
+        "venue": {
+          "id": "5136d9f6e4b052e6acffa193",
+          "name": "Hamad International Airport (DOH) (مطار حمد الدولي)",
+          "url": "https://app.foursquare.com/v/hamad-international-airport-doh/5136d9f6e4b052e6acffa193"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.16611378996896,
+          -33.93528546105637
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-17 02:20:33.000000",
+        "venue": {
+          "id": "4cca6badb8c8224b15fe15ba",
+          "name": "International Airport Station",
+          "url": "https://app.foursquare.com/v/international-airport-station/4cca6badb8c8224b15fe15ba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.08675638798977,
+          -33.83071168337364
+        ]
+      },
+      "properties": {
+        "createdAt": "2025-08-17 01:26:42.000000",
+        "venue": {
+          "id": "4b2a974ff964a520e8ab24e3",
+          "name": "Rhodes Station",
+          "url": "https://app.foursquare.com/v/rhodes-station/4b2a974ff964a520e8ab24e3"
+        }
+      }
+    }
+  ]
+}
